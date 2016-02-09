@@ -1,0 +1,50 @@
+878
+
+gewinnen‚ wo die weggelassenen Glieder von den Differentialinva-
+rianten (21), von Differentialinvarianten niedrigerer Ordnungen und
+von keinen anderen Grcssen abhangig sind. Es ist leicht zu seben.
+dass die Differentialquotienten n —2 Ordnung. die in der Tabelle
+(22) enthalten sind‚ voneinander und von den Grfissen (21) so wie
+auch von den Differentialinvarianten niedriger Ordnungen unab-
+hangig sind. Die Anzahl dieser Differentialquotienten ist 2 (1141).
+Alle anderen Differentialquotienten n -— 2 Ordnung der Grbssen
+D'02 und D''20 kiinnen durch diese 202-1—1) und die Grfissen (21)
+so wie auch durch die Differentialinvarianten niedrigerer Ordnungen
+mit Hilfe derjenigen Relationen ausgedrfickt werden, die sich aus
+den Relationen (18) und (19) durch Differentiation erg-eben. Da
+nun die Anzahl der Differentialinvarianten n-ter Ordnung gleich
+3sn-i-l) ist, so sind wir zum folgenden Schlusse gekommen. Jede
+Differentialinvariante der betrachteten Gruppe lasst sich 818 81118
+Funktion der Grcssen (4) und ihrer Ableitungen daretellen. Dicae
+Ableitungen erfullen nur die Relationen (9), (18) und (19) und
+diejenigen, die sich aus diesen Relationen durch Differentiationen
+
+er eben.
+g7. Wir haben uns bisher mit der epeziellen linearen Gruppe
+
+beschaftigt. Wir wollen nun zeigen, auf welche Weise man die er-
+haltenen Resultate dazu benutzen kann, die analoge Aufgabe fur
+
+die allgemeine lineare Gruppe aufzulbsen.
+Die infinitesimalen Transformationen der allgemeinen linearen
+
+Gruppe sind:
+ef &f &f sps μζ] zqf
+
+332’ ὂψ ἐῖν 921³ σμ’ ρξ’
+2³1⁶ &f &f &l {f ἓ]
+&y’ ἧκ’ ‘⁸32’ ²922· yaex’ περ
+
+und wenn man sic mit den infinitesimalen Transformationen (1) der
+speziellen Gruppe vergleicht, so kommt man leicht zu dem Schlusse,
+dass die Differentialinvarianten der allgemeinen linearen Gruppe
+als solche F unktionen der frfiher betrachteten Differentialinvarianten
+der speziellen Gruppe definiert werden konnen, die in bezug auf
+(118 Differentialquotienten der Koordinaten x, y, z homogen vom
+nullten Grada sind.
+
+Es gibt 6 unabhangige Differentialinvarianten zweiter Ordnung
+und als solche kiinnen die Gri3ssen:
+
+ 
+

@@ -1,0 +1,46 @@
+8:15,
+
+aff> szan——Q emp mede (39)
+
+Or, pourvu que ρ ne depasse pas une cel-taine limite, on pourra,
+en vertu du theoreme du paragrapho precedent, trouver une limite
+supet-iente finie de la quantite:
+
+(ἷξε (92AE 732²)
+divo
+
+lorsque le ,point Q pareourt la ligne (Sl). Oette remarque faite, on
+prouvera sans peine que l'iutegrale (39) tend vere zero ‘lorsqu'on
+fait tendre vers zero suivant une loi eonvenable les quantites ε, η
+et ρ. On a done:
+
+τι (P) = O 7
+ee qui prouve notre lemme.
+Revenons au theoreme enonee au debut de ee paragraphe. Il
+resulte du Lemme 1 que la differenee:
+dG(A‚B‚—m²) 2d‹p(AB)-3(A Β)
+
+dN dN
+
+est bornee. Dono, en vertu des theoremes des ἐξ 17 et 18 et du
+Lemme Π, la differenee consideree est nulle identiquement. La for-
+mule (34) est done demontree.
+
+ξ 2οζ Reprenons la fonction:
+
+ἀθίΑ. B, ngj-’p
+dN
+
+maias pour mettre les .eeerdonnees x et y du point B en evidence,
+eerivons-la ainsi:
+d G(A‚ ³⁶? y, Μ’)
+dN
+
+Cela pose, plaeons l'origine des eoordonnees (ετ, y) en un point
+Ε sitne sur (S) ne coincidunt ni avec le point A7 ni avec aucun
+sommet7 dirigeons l'axe des y suivant la normale en Ε ὲ, la ligne
+(S), vers l'interieur du demaine (D) et soit ρ le rayon d’un eerele
+(Σ) tangent en Ε ὲ. la ligne (S), sitne entierement ὲ l'interieur du
+domnine (D), n’ayant avee la ligne (S) aucun point eommun en
+dehors du point Ε et jouissant en outre de la propriete suivante:
+

@@ -1,0 +1,55 @@
+839
+
+&autres 16111165, eette equation est ,νὼ-11166· dans 16 voisinage de
+chaque· point interient· 611 demaine (D). Notre theoreme est (1666 etabli.
+
+A'vant (16· terminer 66 paragrapho, je crois utile de faire'remar.-
+quer que le them-eme (111 paragrapho precedent et l'equation (24)
+permettent d'etablir aisement les propositions suivantes:
+
+1⁰ Si l'on convient de representet par ΒΜΓ, l'une queloonque
+des derivees d'ordre n d'une fonction F par rapport aux 666111611-
+6668 x et y du point Β. on aura: , ,
+
+ΗΜ {dG(O‚B‚m²) :cils' G(O.B‚m²)
+
+dN div„ (2⁶)
+
+⁶ '²²29 Conservons les notatione precedent-es et convenons (16 116161·-
+miner la position du point Ο sur une branehe de la ligne (S) 611
+moyen de l’are s compris entre 66 point et 116 point fixe, l’are en
+question devant bien entendu 6116 compte dans un sens determine²
+La quantite:
+d G (0, Β. m 3) Ι
+. (1Νο . 1. .
+
+ 
+
+'‘1²⁵'‘
+
+consideree comme fonction· de la variable 8 sera continue sans pour
+les valeurs de s correspondant aux sommets de la branehe consi-
+deree de la ligne (S).
+3⁰ La quantite
+’“ DQ. 1 d (ι’ (0, B, m2)
+Ι (1Νο i
+
+66661116τὲ6 comme fonction des coordonnees du point B sera eon-
+116116 tant que la plus courte distanee du point Β a 16 ligne (S)
+aura nne limite inferieure finie differente de zer0.
+
+ξ 18. Designons par A .un point queleonque de la ligne (S) ne
+66111(- 61(1661; oependant aveo aueun sommet‚ par Β 116 point 61161666-
+que sitne 6 1’161;61·16111· (111 (1611161116 (D) et par l la plus oourte dis-
+tance (111 point B 6 la ligne (S). Je me propose de prouver qu 11
+existe un nombre positis M ne dependant ni des eoordonnees (111
+point Β, ni de la position du point A sur la ligne (S), ni 1116166 (111
+pal-ametro positis m². mais seulement de 16 nature geometrique (16
+16 ligne (Β), tel que l’on ait:
+
+-α6(Α,Β,ηιτ)<Μι
+
+άΝΛ “”“ ΑΒΕ (27)
+
+ 
+

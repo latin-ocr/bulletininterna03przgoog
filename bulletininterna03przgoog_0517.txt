@@ -1,0 +1,48 @@
+479
+
+Diese Bedenken waren bei der Wahl der Methode zur 1111161·-
+suchung der Nervenkapazitat notwendig.
+
+Glflcklicherweise kennt die Physik eine erprobte Methode und zwar
+die von Prof. Nernst zur Bestimmnng der Dielektrizitatskonstante ¹).
+
+Diese Methode beruht bekanntlich auf dem Grundsatze der
+Wheatstonschen Brucke‚ bei welcher zwei Schenkel zwei gleiche
+Widerstande darstellen‚ namlich zwei Glasrbhren a¹ — a² mit Man-
+nitlesung und Borsaure (1800 gr. Mannit‚ 620 gr. Borsaure auf
+einen Liter wasser, zwei Velamen dieser fflsung auf ein Volumen
+Wasser) gefflllt3 die beiden anderen Schenkel dagegen bestehen
+aus zwei kleinen Kondensatoren: ε, und c„ deren Kapazitiit geandert
+werden kann, und aus zwei den Widerstanden a1,a2 ahnlichen Wi-
+derstanden‚ b1 und ὃς.
+
+Vollstandiges Gleichgewicht d. h. Stille im Telephone erhalt
+
+man, wenn bei a1 = a, nach der Einschaltung eines zu untersuchen-
+den Kondensators c„ c¹ =c, †03 und b1 =b,. Wenn der Kon-
+densator, dessen Kapazitat wir zu bestimmen beabsichtigen, ein Di-
+elektrikum besitzt, welches ein besserer oder schlechterer 131611111-
+zitatsleiter ist, so muss man zuerst den Ton im Telephone durch
+‘Widerstande abschwachen und, wenn die Stille im Telephone
+'dadurch nicht mehr erreicht werden kann, den Rest des Tones be·
+‘seitigen und zwar durch Herausschieben der entsprechenden Kon-
+“ densatorplatte.
+’ 801116 das von mir untersuchte Objekt, welchem ich die Eigen-
+sebasten e'rnes Kondensators zuschreibe, solche Eigenschaften nicht
+besitzen d. h. sollte sich keine Kapazitat nachweisen lassen, so muss
+in diesem Falle vollstandige Stille nur durch Ausgleichung der
+Widerstande allein erreicht werden.
+
+Da es sich mir nicht bloss um Feststellung des Umstandes han·
+delte, ob der Nerv 61116 Kapazitat besitzt sondern da ich sie gleich-
+zeitig in Mikrofaraden ausdrucken und die Widerstande in den
+Nerven bestimmen wollte, kalibrierte ich den Nern‘stschen Apparat
+vor dem Beginn der Experimente aus, d. 11. 1611 11626101111616, wel·-
+cher Kapazitat‘ in Langeeinheiten beide Kondensatoren des Appa-
+rates entsprechen. .
+
+Gleichzeitig bezeichnete ich ’ auch den Widerstand der beiden
+Glasrbhren b¹ und b, auf der-Distanz eines Millimeters.
+
+ι) z.. rur phys. Ch. 14, 622. 1894.
+

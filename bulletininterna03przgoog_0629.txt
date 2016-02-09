@@ -1,0 +1,28 @@
+587
+
+vement apres une collision tontes les directions de l'espaee sont ega-
+lement probables tandis qu'iei‚ au contraire, nous voyons une ten-
+danee extreme ὲ maintenir la direction du mouvement primitis (per-
+sistanee de vitesse) 1).
+
+Maintenant‚ il fain: distinguer deux eas: 1) le rayon R des par-
+tieules est petit ou 2) il est grand par rapport au pareours libre λ
+des moleeules du milieu.
+
+Nous etudierons d’abord le premier eas qui est plus simple, puis-
+qu'on peut neglig-er alors la reaetion du mouvement de la sphere
+
+ 
+
+M sur la distribution des vitessee des moleeules environnanteS. Alors
+leurs collisione aveo M serent des evenements independent3‚ aoei-
+dentels‚ et la courbure du chemin de M aura lieu, avec la meme
+probabilite‚ dans un plan queleonque mene par la direction du mou-
+vement instantane de M.
+
+ξ 11. Le probleme en question se reduit par consequent, ὲ ee
+qui suit. Soient P„ Ρ1 P2 . . .. (voir fig. 1) les points οὺ se trouve
+
+²) Smolnohowoki, Ce Bulletin 1906 p. 212; Jeaus Phil. Mag. 8 p. 670
+(1904).
+

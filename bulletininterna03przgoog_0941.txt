@@ -1,0 +1,39 @@
+885
+
+Es bleiben demnaeh diese Operationen sowohl bei der allgemeinen
+linearen Gruppe wie auch bei den Trasformationen von der F orm
+(33) invariant. Will man daher alle Differentialinvarianten der
+Haupttangentenkuryen in bezug auf die allgemeine lineare Gruppe
+aufstellen‚ so konnen die Operationen (38) dazu benutzt werden,
+aus den Differentialinvarianten niedrigerer Ordnungen die Diffe-
+rentialinvarianten hbherer Ordnungen zu bereehnen.
+
+10. Wir seht-eiten jetzt zur Differentiation der Formeln (32).
+Man erhalt zunaehst leieht die Formeln:
+
+⁶010=VE(-··2¹·1†21⁹2&32²3stssss com θ),
+w01=VG( 2r2 — 21⁰1 -ἦ- ἐι ΞζΞ-ἧ-ΞΞ σοι9θ)
+
+und bei Anwendung der Formeln (17) und (23) aus der oben zi-
+tierten Abhandlung ergeben sich ohne Schwierigkeit die Ausdrucke:
+
+mlo: -2VEU‘1 4-91 cotq θ), (39)
+0²01: 2‡‘'G(r2 ÷92 cotq θ). ·
+F erner erhalt man die Formeln:
+7²10 == — G cosec θ (92 r¹ ——92 Z} coty θ-Ι- 2P2 92 -Ι- ἐξ),
+ho, τε. — (γνῗξ cosec· θ (292 r2 - 92 ἐξ cotq θ -Ι- [³192 -ξ- (ἐξ ),
+(4ο)
+1⁶10 Ξ - Ωἷβέ eosee θ (29ι ν] -1-91 ἐξ coty θ 4— 2⁹2 91 - Z‘Z: ),
+
+lc01= — Ecosec θ (91 «ν.2 -ξ- 91 Z} εοί9 θ 4— 2))Ι 9ι - ἐξ)
+
+und wenn man beachtet. dass aus den Formelu (⁸39) und (37) die
+Ausdrueke:
+
+r =:= -91-ᾔ-9ῤ-(2ὀ —- cot θ
+¹ 212²} Is} sin θ 9¹ 9 ⁷
+‚., = {2353} - ⁹2 0
+
+folgen, so sieht man mit Leiehtigkeit ein, dass die Beziehungen (40)
+in der nachfolgenden F orm dargestellt werden konnen:
+

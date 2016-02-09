@@ -1,0 +1,39 @@
+861
+
+Ι1 est mseme ais& de voir que, si l'on deffsigne par b 13 plus courte
+distance du point Β 3 13 ligne ( S), on aura:
+
+υ(Β)- <C.b (8)
+
+en dksignant par C une quantit& indsspendante de 13 position·du
+point B dans le domaine (D).
+
+Pour &tablir oe point, onvisageons le point B‘ de (S) le plus
+voisin du point B et faisous passer par oe point un cerole (Σ) ex-
+t6rieur au domaine (D). SupposonS, comme nos hypothkses nous y
+autorisent‚ que le rayon B du cerole (Σ) ait une valeur indesspen-
+dante de 13 position du point B' sur ( S). D6signons par r 13 dis-
+tance du point Β au contre du cerole( (Σ). On aura manifestemont:
+
+en dt'esignant ici par φ (ν) 13 Πιὲῐηθ fonction que dans 13 formale
+(4) de l’Introduotion. Or:
+
+'‘md-ff< 3w p„
+φ(Β) 2 2nq>‹R)R'
+
+donc l'inessgalitd (8) aura certainement lieu si l'on pose:
+
+Sachant que l'inbgalinss (8) 3 lieu on trouve de suite:
+v(13)-—-sd⁶'A ,Β ΜΪ) ds . (9)
+
+On 3 donc:
+
+J (ΚΗΛἶ Β, m²)d8
+
+Dces lors l’inegalit& (7) donne:
+n(B)2<pt{1—†—sh(A) d85}. (10)
+(w)
+
+Il est dono prouv& qu'il est possible de faire correspondre au
+nombre μ, si petit qu'il soit, un nombre ρ tel quo l’inegalites (5)
+

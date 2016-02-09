@@ -1,0 +1,53 @@
+860
+
+sitne sur la ligne (S). Je dis que, meme si le point P est un som-
+met, la fonction u a h (P) pour limite lorsque le point B tend vers
+le point P de maniere ὲ rester ὲ, l'interieur du domnine (D), mais
+d'ailleurs suivant une loi queleonque.
+
+Supposons d’abord que l'on ait:
+
+(ω Μῆεω
+
+et soit μ un nombre positis donne mais aussi petit que l'on voudra.
+Je puis faire correspondre au nombre μ un nombre positis ὅ. tel
+que l’inegalite:
+
+(4) ΡΑ ,Ξ- ὁ
+entraine l'inegalite:
+¹ h (A) ἱ < μ .
+
+Le nombre ὁ etant determine, on peut, eela resulte de l'inega·
+lite (27) du ehapitre precedent, lui faire correspondre un nombre
+positis ρ tel que les inegalites:
+
+(ω ΡΒΞῼ
+(6) Psi ὲ ὁ
+entrainent l'inegalite:
+dG (A, B, νηὶ)
+*TN—J “- < μ·
+
+Done‚ si l'on designe par (δ’) l'ensemble des positione du point
+A sur (S) verifiant la condition (4) et par (δ”) le reste dela ligne
+(S), l'inegalite (5) entrainera l’inegalite suivante:
+
+(7) ussi) <μ4χσᾱθ (3115 ΜΞ) dsAA—ushfflstA. “
+
+(S‘) (sn)
+
+ 
+
+Observons maintenant eeei: on· sait qu’il existe une fonction
+v (B) des coordonnees du point variable B definie ὲ l'interieur du
+domaine (D) verifiant, dans ee domnine, l'equation:
+
+Av—m²v=0
+
+et tendant uniformement vers l'unite lorsque la plus eourte distance
+du point B Ξι la ligne (S) tend vers zero l).
+
+1) Nous introduisonu la fonction v pour simplifler la demonstration, mais i}
+esst ete facile, en s’appnyant sur le ξ 19, d'eviter l’introduction de cette fonction.
+
+ 
+

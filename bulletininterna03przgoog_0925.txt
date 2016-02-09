@@ -1,0 +1,40 @@
+869
+
+ 
+
+3929 = 'ae10‚x01‚x;÷1‚1}†}220»oeolaxsk'†'x¹oax11⁷x1*'⁷
+{9th Ξ '³³10’ ξτων ‘²³12 »Η '412112 ⁹³01» ‘vul-{- 121022'0222511'2
+{gt-{13:1250Uoelmxfflnl-4-'2012221221112
+ἐξὲξ = '2'01250112 πυ 141 Η-Ι(”“οιυ·”’311»(’3υε1-Ῠ-Ι(’3ο1’·”’“11”39“·ῐ17
+{gbk-:ffoemxwxffmg-1-1x„,x10,ae„1—{-{xnmwmub
+{lg-3⁶3: {x117x107x0 Η.. Η- ¹221„ x10‚2³n¹·
+
+Die reehter Hand stehenden Determinanten lassen sieh aber durch
+die Determinanten ausdrfieken, die in den Reihen (4) und (5) ent-
+halten sind.
+
+Wir werden zu diesem Zweeke eine Relation der Determinanten-
+theorie in Anwendung bringen. Wenn nmlieh eine Matrix von 3
+Zeilen und ὃ Kolonnen vorliegt‚ die wir kurz in der Weiee:
+
+11,2,3,4,51
+
+schreiben wollen. so findet unter Benutzung analoger' Bezeiehnunge·
+weise fur die Determinanten dieser Matrix die Beziehung statt:
+
+11,2‚3111‚4‚51-}—11,2‚4111,5,31-}—11,2,5111,3,41=01).
+Mit Hilfe dieser Beziehung erhalt man die folgenden Formeln:
+
+Dn'xnoae ίδου-ἷὶῗιειιΓ4-Βοι Daue—Dum Due ΞΟ)
+Du'oelw 2321, &wlff-Du Dua—Dum Du ΞΟ)
+Du '2102 xm, ἜσκΙ-Ι-Βυ Dum—Dum D„ =O‚
+Dn'xon 2⁹20, xst{†D¹20 D„ —Dzo D'st =O,
+Du'xm, 252¹, aettl÷D¹21 Du —Dn D'st =0‚
+Du ¹2:01, ³512, xstl-kD‘I, D„ —D12 D‘st ΞΟ)
+Du ¹2:¹1, ²520ae xstfl‘l-Dl'no D‘„ —D‘Qo Dua-'²07
+Dn'xow xl„ ωηΙᾸ-Βόε Duff—Du& D'st ==O,
+
+aus denen sich die Beziehungen:
+
+¹) Siehe E. Pascal. Die Determinanten. Leipzig 1900, S. 122.
+

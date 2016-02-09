@@ -1,0 +1,49 @@
+212
+
+011 ψ (r) est 16 11616111 moyenne de 16 concentration initiale sur 16
+surface d'une 61111616 6 rayon rl).
+
+ξ 7. Remarquons que le 6616111 simplifie du ξ 4 donne un re-
+sultat analogue‚ avec cette difference seulement, que 16 coefficient
+de 16 diffusion aurait la 11101116 dela 11616111 (16(111116 11166 116111. Ceci
+est en accord parfait avec le resultat qu'on deduit de 16 11160116 01-
+(1166116 en tenant compte des memes hypotheses. Car (1666 16 nombre
+des 6101666166 touchant un plan donne seules les 1601666166 comp-
+teront qui se trouvent (1666 1166 60116116 λ, 61 λ 661 16 chemin 1161-
+6011111 1161 6116611116 d'elles3 la 11616111 moyenne (16 1661 chemin jus-
+
+λ
+
+(111’6 1’1616166611011 avec 16 111611 116 6616 que Ξ, tandis qu'elle (16111611
+
+6116 egale 611 chemin libre moyen λ, (1’611166 l'analyse exacte.
+Nous avons dit que les 1661111616 du ξ 5 116 6610111 non plus en-
+1161661661 6116616, 6 661166 (16 1’111110(111611011 (166 suppositione simpli-
+ficatrices du 5 33 ceci est un defaut commun 6 606 66161116 61616
+11160116 ordinaire de 666 111166011161166. 06 6 6666)·6, il est vrai‚ d'en
+degager 16 11160116 ordinaire, en tenant compte de ce que les chocs
+moleculaires tendent en moyenne 6 favoriser 16 direction du mou-
+vement primitis (persistance de vitesse). Μ. Jeans 2) 6 trouve, en
+effet, que 16 vitesse apres une collision 61116, en moyenne, une com-
+posante dans 16 direction du mouvement 1111166116, egale 6 0406 (16
+16 vitesse de celui-ci. Cependant. il n'essaye pas de (16(111116 l'effet
+exact de plusieurs chocs consecutifs3 il se borne 6 116 raisonnement
+tout-a·fait approximatis. Il est prohable, que le resultat indique 1161
+M. ,166116 qui se 16111666 6 multiplier λ par le coefficient 1·684‚ est
+111116 161111106116 (16 16 1161116 que le calcul 1161161, 61 06 pourrait in-
+troduire ce coefficient dans nos formules avec la meme justification.
+Il 661 facile de comprendre comment il faudrait conduire le cal-
+cul rigoureux 66116 6116111166110116, en suivant notre methode, mais les
+difficultes d’integration paraissent presque insurmontableS. La forme de
+l’equation (251 devrait subit une modification pour (166 petits nom-
+bres ης 111616 l'influence de 16 vitesse primaire sera vite efface 1161
+166 611066 60666661116, en sorte que 166 chemins parcourus p. ex·
+
+¹) Voir, p. ex„ Riemann-Weber: Partielle Differentialgleichungen 2, p. 125.
+
+On 1101111611 parvenit, evidemment, aux relations (28--32) aussi par la 166·
+thode inverse, en partant de la 11160116 ordinaire de diffusion, vu 66 coincidence
+avec nos 1661111616.
+
+’) Phil. Mag. 8, p. 670 (1904),
+

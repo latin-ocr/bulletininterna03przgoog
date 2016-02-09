@@ -1,0 +1,45 @@
+893
+
+wenn man ferner diese Werte in die Beziehungen (49) hineinsetzt‚
+so ergibt sich:
+
+U[V(T)] (ὲ V[U('l⁷)] ÷3V(1>)-{—3U(Q)=
+:gn—PV(T>-30c³(T)—6PQ,
+
+Vnum-f} U[V(T)]-1-3U(Q)—{—3V(P)=
+:gon Q [ΜΠ-μ) V‹'l')-— 6PQ
+
+und durch Anwendung der Beziehung (46) folgt:
+
+³2:U1V<⁷>J÷12Vffl÷21f<1³>÷2U<Q>÷4PQ (52)
+= V[U(T>] ΔΓ QU<T>÷2 U(Q)÷2V(P>†4PQ.
+
+Auf anliohe VVeise erhalten die Beziehungen (48) die F orm:
+
+1 U1U(T>1÷3 U<P)÷1>[U<T)†6P]÷
+ὲ V[V(T)]-{-3 V(Q)—{— Q[V(T)-{—6Q]=-
+Σὲ L'OEJ—w-kss) (MT)-
+
+In den Nummern 10 und 11 haben wir das Gesamtsystem der
+Differentialinvarianten der Haupttangentenkurven in bezug auf die
+allgemeine lineare Gruppe und die auf dieses System sich be-
+ziehenden Relationen ausgestellt. Die Reehnungen der gegenwarti-
+gen Nummer ermogliehen eine andere Formulierung dieser fruheren
+Resultate. Da nfimlioh die Differentialinvarianten (41) durch (45)
+und (51) ersetzt werden kiinnen und Ω nach (52) mit Hilfe der
+Operationen Uf und Vf aus den Grssssen (45) und (51) erhalten
+werden kann, so sieht man, dass das Gesamtsystem der Differen-
+tialinvarianten der Haupttangentenkurven in bezug auf die allge-
+meine lineare Gruppe durch P, Q, U('1’)‚ Vm) und dureh samt-
+liehe Differentialinvariauten, die aus denselben mit Hilfe der Ope-
+rationen Us, Vf hervorgehen, gebildet wird. Da ferner die Grbssen
+P, Ο, Τ, Ω durch Relationen, die eine blosse Folge der Identitzlt
+(46) sind, durch Relationen (52) und (53) und schliesslich durch
+diejenigen, die aus den genannten mit Hilfe der Differentiationen
+und Eliminationen abgeleitet werden k6nnen, verbunden sind, so
+sieht man, dass die Grbssen P, Q, Τ solehe Relationen ersssslen, die
+sich aus den Relationen (52) und (53) durch Elimination von Ω
+ergeben‚ und solehe‚ die aus den letztgenannten durch Differen-
+tiantionen und Eliminationen folgen, oder die durch Anwendnng
+der Identitat (46) abgeleitet werden konnen.
+

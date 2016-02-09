@@ -1,0 +1,48 @@
+592
+
+rapport au parcours libre λ (188 1801888188 (18 milieu. Alors les choos
+(18 888 1801888188 contre M ne seront plus distribues avec 18 meme
+probabilite dans tontes les directions, puisque les couches voisines
+de 18 81111818 participeront (1888 808 mouvement, ce qui aura pour
+effet d’empecher 188 changements brusques de la direction du mou·
+voment de M et par consequent, d'agrandir 18 chemin A. Malheu-
+reusement la methode exacte du ἓ 11 88 peut 8118 81111118888 (1888
+88 cas: mais on peut deduire au moins l’ordre de grandeur de Λ, ,
+par une voie differente, moins exacte. mais tres simple.
+
+La particule Μ, lancee dans 18 milieu avec 888 vitesse initiale
+G. subirait 88 181881188881881 du mouvement (de 18 vitesse compo-
+88818, (18118 18 (111881108 initiale) d'apres la formule:
+
+t
+
+(16) V= Ce—‘f
+08 τ representa 18 masse de 18 particule, divisee par le coefficient
+.de 18 resistance: fc: ἐξ. Mais d’apres 88 qui 8 ete dit au ὃ 9,
+
+l'energie cinetique du centre (18 18 gravite de M ne diminue pas,
+81 C 8 18 valeur qui resulto de (3). La sphere perd 88 vitesse pri·
+mitive‚ mais en revanche elle acquiert des vitesses normales 88
+mouvement 1811181, (18 18118 grandeur en moyenne‚ que 18 vitesse
+resultante ne change pas ¹).
+
+Nous pouvons regarder 18 temps de relaxation τ 80181118 1888818
+
+(18 la duree du mouvement rectiligne. et le chemin τ Ο :ii—gg:
+
+comme mesure du chemin rectiligne. Le mouvement dela particule
+M peut 8118 assimile, par consequent, 88 mouvement d'une 1110188818
+gazense, qui s'eloignerait de sa position initiale sur un 81181818 88
+zigzag, comp·›se de morceaux droits (18 18 longueur (18 parcours
+libre (apparent) λ = τί).
+
+La distance moyenne 81181818, 1181 888 18118 1110188818, 881 d’apres
+la formule citee p. 590: A„ -ε-λνφῖ, (1’08 resulte le deplacement, at-
+18181 (1888 1188 seconde:
+
+¹) 0881 est en desaccord avec l'opinion d'apres laquelle 811 talentissement in·
+fini de la vitesse Vaurait 11811 (1888 un milieu visqueux. En 1881118, avec (188 corps
+visibles 8 l'oeil nu, 18 mouvement calm-ique subsistant, C, 8818. 1188 petit 88 com·
+paraison avec des vitesses initiales, meaux-ables, et on ost on droit d'en faire ab·
+8118811011, s’il s'agit de 18 1888881888 ordinaire.
+

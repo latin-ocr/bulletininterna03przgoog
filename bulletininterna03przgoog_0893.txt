@@ -1,0 +1,55 @@
+843·
+
+loreq‘ue le point B tend vers un point (J sitne sur (S) mais distinct
+
+dn point A, la fonction S (A, B) tend vers 16 meme limite que la
+quantite:
+
+ἀφ (ΑΒ)
+
+2ξιΝῙ
+
+(35)
+enfin, lorsque le point Β tend vers le point A la fonction consi( ‹-le
+ree a pour limite la limite vers laquelle tendrait l'expression (35)
+dans le cas ou le point B tendrait vers le point A en restant sur
+la ligne (S).
+
+Pour etablir le theoreme precedent, deux lemmes nous serunt
+necessaires. ·
+
+Lemme I. La valeur absolue de la difference:
+
+(ιθ (A B m2) 2 AfflAB)
+
+TN dN (36)
+
+6 une limite superieure finie.
+
+Le point A n'etant pas un ‚gemmet de la ligne (S), on poni-ra.
+menet par ce point deux cercles (0) et (θ’) tangente en A 6 16
+ligne(S) et situes: 16 premier dans le demaine (D) et le second
+dans 16 demaine (D'). Designons ¹par 9³ (P, B, νηὶ) 16 fonction de
+Green interieure relative au cerole (ω et par φ’ (Ρ, Β, m2) 16
+fonction de Green exterieure relative au cercle (θ’).
+
+Lorsque le point Β se trouve. a l'interieur du cercle (ζ) on a:
+
+dff(A,ss‚m²)< dG(AB.m2)< ᾱᾷ(ᾼ,Β,ιη9-)
+dn = dV - <iffi
+
+Or, le lemme que nous voulons etablir est aise 6 dementi-er
+quand on considere la fonction de Green interieure ou exterieure
+relative 6 un cercle. Oette remarque faite, il resulto des inegalites
+precedentes que la valeur absolue de la difference (36) a u'ne limite
+superieure finie lorsque le point Β ne sort pas du cercle (C). D'autre ‚
+part, lorsque le point Β, sans, bien enten‘du, sortir du demaine (D),
+est sitne a l’exterieur dn cercle (0), la valeur absolue de l'exprea-
+eion'(36) reste bornee, car il en est evidemment ainsi du second
+terme et il en est de meme du premier en vertu du theoreme eta-
+
+bli an paragraphe precedent. Par consequent, l'expression (36) jouit
+bien de la propriete annoncee.
+
+Lemme 11. Designons par A, Ag. ..,‚A un systeme de n points
+

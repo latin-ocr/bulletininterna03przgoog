@@ -1,0 +1,48 @@
+810
+
+165 pour 16 fonction de Green (i (Α, Β, m2) et designons par u (Β)
+1661· differe-nee. La fonction u s'aunulera sur (S) et verifiera l’equation
+
+„in—2222uzo
+
+(16115 tout le (1011161116 (D) sauf peut-&tre en A. En vertu (16 Lemme I
+elle verifiera 611 1661116 l'equation precedente 11161116 611 Ας 6116 sera
+(10116 nulle identiquement. Dono. (16115 16 665 (16 (1011161116 1111611661.
+la (1611611106 (16 ξ 2 116 161556 subsistet aucune indetermination.
+
+Passons 611 (1011161116 6111611661· (D‘). Soit u (B) la difference de
+deux expressions differentes (16 16 fonction de Green G (A, B, 212²).
+La fonction u (Β) serait 11011166, 6116 s'annulerait sur (S) et 6116 ve-
+rifierait l'equation
+
+Aea—mmzo
+
+(16115 tout 16 (1011161116 (D') saus peut—§tre 611 A. Il 16511116 du Lemme I
+que 16 fonction u verifiera 611 1661116 l’equation precedente 11161116
+611 point A. D'autre part· 16 Lemme II nous appreud eeei: lorsque
+16 ρ6161116116 1661 m est different de zen), la fonction u (B) tend
+uniformemeut vers zero (16115 16 665 011 16 point B s’eloigne iude-
+finiment3 lorsque 66 contraire 16 [1616616116 m est nul, 16 fonction
+u est reguliere 6 l'iufini. Il 1656116 (16 tout 6616 que 16 fonction u
+651 1111116 identiquement.
+
+Il est (10116 (1661011116 que la (1611611106 du ξ 2 determine 16 soue-
+11011 (16 Green eompletement.
+
+Faisons remarquer que 1’011 tire immediatement des considera-
+tions precedentes 16 16511116611011 (16 la note de la p. 805.
+
+ᾗ 6. La 1011611011 (16 Green 116 prend que des valeurs 1661165 et
+11011 negatives Les expressions de 66116 fonction trouvees au ξ 4
+sont 1661165. Dono, eu &gard 611 ξ ρι·(’·(·.6(161117 16 1661116 (16 16 fonc-
+tion de Green est parfaitement evidente. ,16 viens de dire que cette
+fonction ne prend jamais de valeurs 6686111765. Cette proposition
+peut 6116 [11661566. Observons dans 66 but que, (16115 165 hypotheses
+011 nous nous 5011111165 places⁷ 16 demaine auquel se rapporte 16 fone·
+tion de Groen peut n'etre pas d'un seul 16116111, puisqu’il peut 56
+composer de plusieurs des regions (1616111116665 (16115 16 plan par les
+diverses branehes de 16 ligne (S). Je (115 que 16 fonction G (Α. Β, ηιξ)
+[je conserve les notations du ξ 21, consideree comme fonction des
+6001·ἃο1111665 (16 point B, reste (1111616616 (16 zero et positive 6 1’111-
+16116111· (16 66116 des regions prs-cedentes 6 1’11116116111· (16 laquelle se
+

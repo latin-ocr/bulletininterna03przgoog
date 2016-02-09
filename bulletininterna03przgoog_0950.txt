@@ -1,0 +1,54 @@
+894
+
+Um aus dem Gesamtsystem der Differentialinvarianten der all-
+gemeinen linearen Gruppe das Gesamtsystem der speziellen Gmppe
+zu arbaston, brauoht 111811 zu dem ersteren 11111· die Differentialin·
+variante T hinzuzufssgen.
+
+13. Wir gehen jetzt zur Betraohtung der Translationsflaehen uber.
+
+In der zitierten Abhandlung: „Uber Krummungseigenschasten
+der Scharen von Linienelementen“ haben wir gesehen, dass die
+notwendigen und hinreichenden Bedingungen‚ damit zwei ’91011θί11-
+ander verschiedene Kurvenscharen 1 und 2 zwei konjugieroe Scha-
+ren von kongruenten und gleiohgestellten Kurven bilden, die fol-
+genden sind:
+
+⁷²³· '² = ῆι λ ἴ) -†-m (Ρ μί’) -1- um 2⁰²) -Ι- ²22 μη) affl = 0,
+
+(ίωῑ1 ) dmm
+
+(54) 9‘¹''²=(91-{-d31-)2“²-}-(q2† ‘332 )u²'=0·
+9‘'‘¹²=(91-{-⁶-²‘⁰U)2“³-l-(q2-l- ἅωῇμωτε
+
+Wir wollen nun annehmen‚ dass die Koordinatenlinien 3811111188-
+gentenkurven sind. Alsdann 8111811 die erste 111138181- Bedingungen
+die Form:
+
+(5 5) λα) μω -Ι, μω λα) = 0
+
+und weder dio Sohar 1 noch dje Sohar 2 kann eine Sohar der
+Koordinatenlinien bilden. Wir werden uns damit besebaftigen7 die
+Soharen 1 und 2 aus den Bodingungen (54) zu bestimmen. Auf
+grund der Beziehung (55) wird man dazu geleitet, in die zweite
+und dritte Bodingung (54) die neue Unbekaunte:
+
+(56) ἷζε,- '’g—3²²
+
+einzufiihren. Zu dem Zweeke beachte man, dass die Formeln (56)
+in der Form:
+
+ 
+
+ 
+
+sianotq w(¹)—cosO=v‚
+
+sin Ocoty ws') -οοε 0==-- τ
+
+gesehrieben werden kannen und dass durch Differentiation die Be-
+ziehungen:
+
+sin θ coeec⁹ (εἶ’) ἀωω --- (cos θ cotq (00) -Ι- εἰη θ) do — dv,
+sin θ cosec² (υἷ’) dmm = (cos θ cotq (0⁶⁸) -†- sin θ) do -ἦ- dt
+

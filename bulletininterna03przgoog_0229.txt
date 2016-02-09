@@ -1,0 +1,47 @@
+205 ’
+
+Il en 16811116 que la possibilite d'un 66811 ό a partit d'un nom-
+bre normal N (16 collisione 681 (1’81118111 1110111(11·6 que le nombre N
+681 plus grand.
+
+ξ 3. Dans ce qui suit, nous examinemus surtout 66 688 11111116
+d’un grand N, οὺ 168 deux notions exposees plus haut 86 confon-
+dent. La question fondamentale peut 6116 61108666 (16 18 1118111616
+suivante: Observons les 11101660168, 86 (1691868111 par suite (16 161118
+
+“ mouvementS, apparemment irregulier5‚ en zigzag‚ et demandons-nous
+
+quelle est la probabilite qu’une 11101661116 atteigne (18118 1111 temps
+t 1111 (16111866816111 compris entre les coordonnees sc, y, z, oe -1- dac,
+y -}- dy, 2 -Ι- dz, par rapport 8 88 position initiale. Pour simplifier
+16 6816111 110118 ferons la 11161116 supposition que ci-dessus: α) (1116 λ
+681 11116 (1118111116 constante, et, en outre, β) (1116 18 probabilite de 18
+8818881166 d’un mouvement par suite de chaque 6011181011 681 18 11161116
+(18118 tontes les directions de l’espace.
+
+Oette supposition β) 11’681 exacte que (18118 16 688, 011 16 6611116
+de gravite des deux molecules 681 611 161108; (18118 16 688 6011118116
+6116 entrainera une certaine 6116111, (1116 110118 (1186111610118 111118 10111.
+C’est la 11161116 inexactitude 8 laquelle 110118 avons fait allusion au
+commencement du ξ 1 61 (1111 86 retrouve, sous 11116 forme plus ou
+11101118 apparente. (18118 10118 168 68161118 (16 18 11160116 ordinaire (168
+811116168 rigides ¹). C'est aussi 66 que 1108 1681111818 81110111 (16 commun
+avec la 11160116 ordinaire: 118 116 (101111610111 1188 (168 valeurs exactes,
+111818 (168 111(1168110118 qualitative& Nous verrons cependant que quel-
+ques conclusions pourront tout de meme 6116 601181(161·668 comme
+exacteS.
+
+ξ 4. Il sera utile (16 faire le 6816111, d'abord en le simplifiant
+par la supposition (1116 16 6116111111 parcouru par chaque molecule soit
+toujours egal a λ. 1)8118 66 688 chaque 6011181011 peut avoir 11611 avec
+la 11161116 11101181111116 (18118 1111 point quelconque 'd'une 81111616 (16 rayon
+λ, construite autour du point, 011 la collision 811161161116 s'est faite.
+La probabilite (1116 16 11611 (16 18 premiere 6011181011 8011 compris entre
+168 8118618868 1....1-1-(141 sera definie par le rapport entre l’aire de
+l'anneau y‘ correspondant et la surface totale (16 18 sphere:
+
+mww=ss. (0
+
+¹) Voir, p. ex„ Boltzmann: Gantheorie 1, p. 95.
+5*
+

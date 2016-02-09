@@ -1,0 +1,34 @@
+209
+
+dana laquelle l'exposant contient la valeur 'absolue de y. Or, l’in-
+tegrale se divise en deux partieS‚ entre les limites — 00, 0 et 0, -Ι-οο,
+qui peuvent &tre munies, si l'on substitue la variable, avec signe
+inverse, dans la premiere. Ainsi on obtient la forme voulue:
+
+p.(ae>=—5¹72sfss—yff[s-s1⁴01-(2>dz]dy- (21)
+
+Afin de pouvoir employer cette equation ὲ l'evaluation sueces-
+sive des p, transformons pl dans (16) ὲ l'aide de l'integrale de
+Fourier (10):
+
+ω 400 00 --9
+P1(2)=2“137-cld9s0089(2-“)s3-g dea=
+α. -Ρ
+=2n3sdqs[eosq(z—a)-l—eosq(z -l—a]soe——d(›da
+
+ee qui donne, par integration partielle d’ apres a:
+
+1 dq—e—osqz
+
+p(z)- -· ᾗ — q (Ρ (9) (22)
+Οΐι la fonction φ signifi&
+φ (9) = [δὴ] qa 8-ῑὲ αα. (23)
+
+ΕΠ introduisant cette expression dans (21), on obtient:
+
+ 
+
+Ρ, (2) ζ 1 6-ζῖ dy Ῐ ‘²2 φ (9) [sin q (x—y)- sin q (σε -l- 9)]
+
+2 λε π y 92
+

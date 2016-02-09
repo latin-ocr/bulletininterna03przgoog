@@ -1,0 +1,49 @@
+897
+
+aus welehen durch Anwendung der Formeln (41) und (44) folgt:
+Α- ’— ““ 91819αὲ1(
+B== -91 92 (Ω- 4), (62)
+C= —- 91} 923 H2.
+
+Man gewinnt eine einfaehe Form der Gleiehung (59). Es folgt
+numlieh aus den Formeln (62), dass wenn man die neue Unbekannte:
+
+91392‘320: ρ (63)
+einfuhrt, die Gleiehung (59) in der Eorm:
+K192-<52-4)<›†H2=0 (64)
+
+dargestellt werden kann.
+
+Es empfiehlt sich demnaeh die Unbekannte ρ auch in dio Glei·
+chungen (58) einzufflhren. Duroh Differentiation der Formel (63)
+und Benntznng der Gleiehungen (58) ergibt sich:
+
+ἐξ ε-291ἓ9 2ὲσοεεοθ-2γ2ροοεεσθ-Ι-ξ(ἐ Z}--91-2g}2)0
+ι 1
+
+{32² -29 ἑθέ-ἓρεσοεεσθ -2γ1 QcosecO-ksst( 1 ᾆξ’ dS----‘) ρ
+91d⁸ 2 92d82
+
+und bei Anwendung der Formeln (38), (41) und (61) kommt man
+auf die folgende Form der Differentialgleiehungen (58):
+
+U(0)=2[1÷÷(K1—H1)01‚ (65)
+V<0>=2[— enema—mm]-
+
+Es ist klar, dass durch Anwendung der Identitat (46) aus die-
+sen Gleiehungen wieder die Gleiehung (64) folgen muss. Auf die
+Verifikation dieser 'l'atsaehe gehen wir hier nieht ein.
+
+Man fuhre jetzt die Operation Uf aus die Beziehung (64) aus,
+Wir erhalten die neue Beziehung:
+
+U(K1)0²-U(Q>9-†-U(H2)†
+-Ι-2Ι29Κι -(Ω-4)][1-(-ὲ(Κι-Ηι)ρ]-Ι-0
+
+d. h. die Beziehung von der Form:
+
+A292-1-B1Q-1-C1=0‚ (66)
+
+wo die Koeffizienten folgende &Verte besitzen.
+nun-un ιιι. 3
+

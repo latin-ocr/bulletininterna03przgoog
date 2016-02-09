@@ -1,0 +1,43 @@
+818 ‚
+
+supposons que les points A et B soient situos dans la partie du
+plan annulaire (T) limitoe par les ceroles (0) et (0¹), dosignons par
+αἴῃ ΓρΙῥηιωη d’aire relatis au point B ot soit enfin a la distance du
+point A au centro commun des corales (C) et (C'). Je dis que l'on a:
+
+(1) sgffi'(A‚B)}²dt<(a R) 21e÷121-11›÷‡(-R-T{R)3.
+
+On &tablira aisoment cette infigalitc· en partant de. la remarque
+suivante: prenons 16 centro commun 0 dos eercles (C) et (0¹) pour
+pfile et 16 rayon OA pour origine d'un systomo (16 οοοτάοωιό65 po-
+laires; si l'on dt'fsigne alors par ρ et φ 16 rayon-veeteur et l'angle
+polaire du point B on aura, pour
+
+ρ<α
+
+φωᾞμ-έπιοεῑςψέπὲῑι(ΞΥ-(ἔζηωεψ
+ρ> a
+
+ 
+
+W, 1³1: ,ξπ 10ςῇ 4- Σῇ ξω· -Ῑῖζῇ ᾖ Θοζῖφ -
+
+g· 10. Aetuellement notre but consiste ὲ. mettre en &videnoe oer-
+taines propriotos (16 la fonction (16 Green K (A, Β), relative Ξι Γρῳιει·
+tion de Laplaoe et au domnine extorieur ὲ un systome de doux
+corales ogaux (CI) et (02) ne se coupant pas, A oet effot⁷ nous
+pourrions nous servir (16 l'expression oonnue de la fonction K (A, Β)
+au moyen des fonctions θ (16 Jaoobi1). Il sera plus simple peut-§tre
+(16 procedet de la faoon suivante: desssignons par 9⁰³1(A, B) la fonc-
+tion (16 Green relative au domnine extorieur au cerole (CI) et posons
+
+2) K(A,B)=90‘‚(A‚B)--q>(A‚B).
+
+La fonction φ (Α, Β) sera &videmment symotrique par rapport
+aux deux systomes (16 variables dont l'un reprosente les coordon—
+noes dn point A et l'autre celles du point B3 considoroe comme
+fonction des coordonnoes (16 l'un dos points A et Β, du point B
+par exemplo. elle sera une fonction harmoniqne ὲ, 1’6Χι61·16ιιι· des
+
+¹) Voyoz &Voben Pax-tiene Differentiatgloichungen l. p. 351, ἓ 142.
+

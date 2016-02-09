@@ -1,0 +1,49 @@
+809
+
+Β au point 0, eentre du eerele (0), par (CI) un eerele eoneentrique
+au eerele (C), de rayon Rl > ρο, par i Punite imaginaire et eonsi-
+derons la fonction de Bessel J0 (2). En vertu des proprietes bien
+eonnues de l'equation aux derivees partielles
+
+Au-— m²u=O,
+
+on aura:
+
+J„ (z‘ πὲρ)- J0 (i m ς)
+
+w†MJ⁰(ile){-O; ²⁰*MJJ'3 ΞΟ,
+
+(ῑηὶ 12²1) —
+
+pour toute valeur de ρ comprise dans l'intervalle (R, ΕΙ). On aura
+done:
+
+:w(B‹‚) « ἑΜΞοὲζ-’ξὲ-’ὲζ
+
+Oette inegalite ayant lieu si grand que soit R„ elle entraine la
+consequence suivaute:
+
+w(B0)=0.
+
+Cela prouve que la fonction w est nulle identiquement. Or, cette
+eii-constance eutraine evidemment le theoreme que nous voulions
+etablir.
+
+Passons au eas οὐ m= 0. En principe la meme methode de
+demonstrations restera applicable, il faudra seulement 1⁰ au lieu
+d'imposer ὴ la fonction v la condition de s'annuler s, l’infini lui im-
+poser eelle d'etre reguliere ὲ l’infini‚ 2⁰ remplaeer la fonction
+
+J0(im<›)
+
+J0 (i m IfJ)
+
+par la fonction
+
+En resume, le lemme qui nous voulions demontrer est etabli.
+
+Nous voiei en mesure de demontrer que la definition du ξ 2
+determine eompletement la fouet-ion de Green. Conservons les no-
+tatio‘ns du ξ 2 et envisageons (l‘abord le demaine (D) interieur ὲ, la
+ligne (S). Supposons que l’on ait trouve deux expressions differen-
+

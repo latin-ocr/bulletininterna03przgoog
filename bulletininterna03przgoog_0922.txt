@@ -1,0 +1,42 @@
+866
+
+untersuehte1). Es ist klar, dass die Beziehung unserer Batrach-
+tungen zu den Tresse’schen eine derartige ist, wie etwa der allge-
+meinen Flaehentheorie in Parameterdarstellung zur Behandlung der·
+selben in kartesischen Keordinaten. Den Sehluss der gegenwartigen
+Abhandlung bildet eine Anwendung der erhaltenen Differentialin-
+variamen auf Translationsflaohen. Wir haben numlieh in einem
+frssheren Aufsatze ²) das Problem der Bestimmung von Scharen
+kongruenter und gleichgestellter Flaehenkurven mit Benutzung der
+Parameterdarstellung der Flaehe behandelt und nun bieten wir
+diese Untersuehung in einer Form (lar, wo die genannten Diffe-
+rentialinvarianten zur Geltung kommen.
+
+1. Es seien x, y, z die reehtwinkeligen Kartesisehen Koordina-
+ten des Punktes im Raume und man betraohte die spezielle lineare
+Gruppe dee Raume3‚ d. n die Gruppe, deren infinitesimale Trans-
+formationen die folgenden sind:
+
+ef ef es ωεν- et ef ef
+
+(1) {Tae’ey’ ἐυτ’ ει ²ez’3'59-232’
+es as ef es ef ss
+*τρῆμ’ ‘lez’ κατ’ zex’ yar) κεί·
+
+Es scien ferner die Gleiehungen der Flaehe:
+:13:ae (u, v), y=y (u, v), 2=z (u, v),
+
+und man nenne Differentialinvarianten des Parametersystems u, v
+diejenigen Differentialinvarianten einer Gruppe des Raumes x‚y,²,
+welche entstehen‚ sobald man die Parameter u, v unverandert lasst.
+VVenn man die Bezeichnung:
+
+3144: φ
+φβῑεῆ-ιιὲυι
+benutzt, so wird man die Differentialgleiohungen, denen die Diffe-
+rentialinvarianten des Parametersystems u, v in bezug auf die spe-
+zielle lineare Gruppe genngen7 folgendermassen darstellen ki‘mnen:
+
+¹) Acta mathematica, band XVIII, S. 69 u. ff.
+²) Leipziger Bet-ichte, Band Lvu, S. 233-245.
+

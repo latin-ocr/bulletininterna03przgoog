@@ -1,0 +1,56 @@
+480
+
+Dieser Widerstand betragt in dem in meinem Institute verwen·
+deten Apparate durchsehnittlieh:
+
+b¹ auf 1 mm. 7337 Ohm.
+b, „ „ ‚‚ 735·12 Ohm.
+
+Da die Glasrsshren nieht uberall gleiehen Durehmesser beeiuen,
+so konte man vorauesehen, dass der Wideretand an verschiedenen
+Stellen verschieden sein wird3 deswegen habe ioh auch den wi-
+derstand an den einzelnen Absehnitten der entspreehenden Glasrtzh-
+ren gemessen. Diese Widerstande waren in anserem Apparate
+
+folgende:
+b, b
+
+Ξ
+bis auf 0-6400 6692
+von 0-1 om. 7284 6876
+„ 1-2 „ 6596 7382
+,, 2-8 ,, 8320 6680
+,, 8-4 ,, 6800 8392
+,, 4-6 „ 7660 7476
+
+Beide Kondensatoren habe ieh mittels des kreisffirmigen Plat-
+tenkondensators von Kohlraueeh auskalibriert. Da der Radius der
+kreisfflrmigen Kondensatorplatte = 10 θαι, dagegen die Entfernung
+der Kondensatorplatten voneinander 31s, mm betrug, —(die obere
+Platto ruhte auf drei kleinen, 3¹J2 mm hohen, auf der unteren
+Platte angebraehten Kauteehuk- oder Paraffinprismen —) eo ergab sich
+naeh der Formel von Kohlrauseh eine Kapazitat: 00000'1881 ffi-
+krofarad‚ also beinahe 8.10-⁸ Mikrf.
+
+Den oberwahnten Kondeneator verbanden wir abweehselnd mit
+0¹ und 02 und eehoben die Glasplatten des entspreehenden Kendema·
+turs bis zur Erreiehung der vollstandigen Stille im Telephone hernus·
+
+Durehsehnittszahlen, die wir an verschiedenen Tagen orhielten,
+waren folgende:
+
+bei Verbindnng mit C, oder 0,
+musste man die Kondensator· ⁵
+platte herauesehieben auf 1) 71 mm 87 mm
+
+2) 666 ,, 82 ,,
+3) 78 ,, 80 ,,
+
+42 706 2 8ι·7 ,,
+
+Durehsehnittszahl: 7125 mm. 8221 mm.
+
+ 
+
+ 
+

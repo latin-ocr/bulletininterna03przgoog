@@ -1,0 +1,48 @@
+806
+
+sement dans le eas oh l'on se borne, comme nous 16 somne, a ad·
+mettre au sujet de la ligne (S) les hypotheses que j'ai adoptees
+dans mon travail sur l'equation
+
+Au—n22uzo
+
+dans 16 eas de deux variables i11dependantes2).
+
+Il n'y a certes pas de difficulte ἐι combler cette 16611116, cepen-
+dam, ἐι cause de l'importanoe (111 sujet et pour assurer. une base
+solide aux developpements ulte'rieurS, je crois faire oeuvre utile en
+reprenant rapidement la demonstration de chacun des theoremes
+qui viennent d'etre enonoeS.
+
+ξ 4. Existenoe de la fonction de Green. Posons ³)
+
+(3) f (ε) = - i s γὲν-ᾗῇ dt
+
+οὺ l'on doit prendre la determination positive du radieal et conside-
+rons d'abord le demaine (D) interient a la ligne (S). Soit A un point
+pris arbitrairement a l'interieur du domaine (D) et B un point va-
+riable dans ee demaine. Designons par r la distance des points A
+et B et par φ (r) la fonction definie par la formule
+
+φ (ν) -- {7} four)
+
+lorsque m> 0: et par la formule
+
+dans 16 eas οὺ. m= 0.
+Cela pose, designons par 9 (A, B, m2) la fonction qui, consideree
+comme fonction des coordonnees du point B, verifie l'eq1-ation
+
+«dy—m² =0
+
+dans toute l’etendue du domaine (D) et qui, lorsque la distance du
+
+²) Zaremba. Les fonctions fondamentales de M. Poincare et la methodo de
+Neumann pour une frontiero compusde de polygonoe eurvilignes. Journal de Ma·
+thomatiqueo puros et appliquees‚ 1904, p. 396.
+
+⁸) Loe. eit. p. 398.
+
+ 
+
+ 
+

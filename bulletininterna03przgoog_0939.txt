@@ -1,0 +1,51 @@
+883
+
+m=loq(EGms-in θ),
+G
+'5392
+
+Ιεεῑῇἒριοοεεσθ.
+
+Ῐι---- οοεεοθ,
+
+(32)
+
+Die in don angefuhrten Beziehungen auftretenden Gramen konnen
+in zwei Kategorien eingeteilt werden, je naehdem sie allen Trans-
+formationen von der Form:
+
+α’ = φ (u) , v‘ = ψ (υ) (33)
+gegenuber invariant oder nieht invariant bleiben. Zur ersten Kate-
+gorie gehen-en die Grbssen:
+
+θ, m: Pl> με, 912 92- (34)
+
+Aue der geometrisehen Bedeutung dieser Grssssen folgt‚ dass sie, so-
+bald man die Vorzeiehen dieser Grffissen nieht im Zusammenhang
+mit den Parametern u. v, sondern bloss im Zusammenhang mit den
+Parameterkurven definier‘t, allen Transformationen von der Form
+(33) gegenuber sowohl dem Werte wie dem Vorzeiehen nach in-
+variant werden. Zur zweiten Kategorie‚ d. h. zu derjenigen, der
+die Eigensehaft der Invarianz nieht zukommt‚ geheren die Grssssen:
+
+Ε. G, rl, r,. (35)
+
+Die beiden Kategorien kennen noch erweitert werden. Es leuab-
+tet numlieh ein, dass der ersten die Ableitungen aller Ordnungen
+der Grssssen (34) nach den Bogenlangen ,ςι und ⁸2 angehbren. Wenn
+man dagegen die Grbssen (35) nach den Bogenlangen s, und 3,
+differenziert, so kommen ausser diesen Gr6ssen neue vor, denen die
+Eigensehaft der Invarianz nieht zukommt. Man kann leieht ein-
+sehen, dass die Ableitungen:
+
+(ιη αη- - - d2‘2· ν,
+rll— -d81 ’ '‘1'' — gbl—¹² ····· rl('⁸ 3) = “- ἱιλΞῖ ’ ο ο ο
+Ι ἀφ’ . Ι — dnn ‹2-3> — (1)...εᾷ (36)
+r2 - ᾶὲὲ ’ '² — Ra} nnnnn '⁴² — '¹'l 2λ-3 0 Ο 0
+
+nieht invariant bleiben und dass keine von ihnen durch die ubrigen
+und dureh invariante Grnssen ausgedruekt werden kann. Es konnen
+aber alle anderen Ableitungen der Grbssen r1 und r8 durch die
+eben angefuhrten und durch invariante Grffissen ausgedrflekt werden.
+2·
+

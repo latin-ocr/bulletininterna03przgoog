@@ -1,0 +1,54 @@
+807
+
+point B Ξι la ligne (S) tend vers zero„ tend vers la meme valeur
+que la fonction φ (r).
+
+Les resultats que j'ai etablis dans le memoiro ein'· quelques li-
+gnes plus haut, ne laissent subsistet· aucun doute sur l'existenee de
+la fonction ς] (Α. Β. m2). D'autre part, il est &vident que la formule
+
+G (A, B. m2) = φ (1·)— {J (A, Β. m2) (4)
+
+fournit pour la fonction (le Green une expression verifiant la doh·-
+nition du ξ 2. Dono la fone-tion (le Green relative au dolnaine ‹D›
+interieur Ξι la ligne (S) existe.
+
+Passons au ‹lolnaine exterieur (D'›. Dans le cas general. lorsque
+m>0‚ rien n’est Ξι changer dans la demonstration preci-dent& il
+faut seulement ajouter ἰ). la definition (le la fonction 5] (A. B, ιη’). la
+condition suivante: lorsque le point B s’‹³loigue indefiniment. la fone-
+tion q (A, B, 1112) doit teudre vers zei-0.
+
+Reste ἐι examiner le eas particulier ou mzo. Designons par 0
+un point fixe ehoisi arbitrairelnent Ξ). 1ἰίιῖρΐίοιιι· du domaine (D) et
+designons par ψ (Α, Β) la fonction qui. oonsideree comme fonction
+des coordonuees (lu point B est harmouique dans le demaine (If).
+reguliere Ξι l'infini et tend. lorsque la distance du point B Ξι la ligne
+(S) tend vers zelo vers une¹ limite egale {1 aelle de l’expression
+
+1 OB
+επῂἮρ4Β·
+
+(S) etant possible (voir le nu'unoiro cite plus haut). la fonetion ψ
+existera. D’ailleurs la formule
+
+Gsthfflzssffwffsswwfflsto m)
+
+Le probleme de Diriehlet exterieur relatis Ξι lu ligne
+
+fournit evideinment une expression de la fonction de Green deman-
+dee. En resume, l'existenee (le la fonction (le Green est etublie
+
+eompletement.
+ξ ἰ). Assurons-nous que la defiuition (lu ἓ 2 determine la fonv-
+
+tion de Green completement. Deux lelnmes nous serent neceb-sanes.
+Lemme I. Lorsqu’une fonction u, continue (lans une aire (Ω).
+
+νρνἰὲἰθ l'equation
+
+Δ ιι-φη3τιῑο,
+
+ou. rappelons-le, m est reel= dans toute l'etondue de oette aire3 saus
+peut-&tre en un nombre limite· (le points A„ 112...A„ isole& situs*
+

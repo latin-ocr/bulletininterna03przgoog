@@ -1,0 +1,46 @@
+837
+
+gueur L 81181818, donnons 8 δ 888 valent assez petite pour que,
+pour tontes les positions (18 point P sur 18 position (8,) dela ligne
+(S), l’inegalite (12) entraine l’inegalite suivante:
+
+ν’(η,Ρ)-ψ(ο-.Ρ)1--<-μ-
+
+, ¹ Oette condition pourra evidemment toujours ὃτι-8 verifice. Cela
+pose, decomposons l'integrale formant le second membre de (16) 88
+leurs parties, etendues l’une 8 18 portion (81) et l'autro 818 portion
+(82) (18 18 ligne (S). En tenant compte des inegalites (8) et (14),
+et en designant par S 18 longueur totale (18 (S), nous conclurons
+aisement de (16) (188 l'on a:
+
+ἲὲζψξὲβᾷὲλ-(ἔὲιλζῖ 2 0· (7-1- δθιμ.. ·(17)
+
+quelle que soit 18 position (18 point B (1888 188 limites (18 (18188188
+defini par l’inegalite (2).
+
+Voici maintenant 88 (181 resulte de ce (188 18 relation (7) est
+verifice lorsque 18 point A est sitne dans 18 (18188188 (D') ou sur 18
+ligne (S): on pourra attribuer 8 ὁ 888 valeur assez petite pour (188
+l'inegalite ( 11) entraine, 88 dehors (188 consequences (1838 conside—
+rees. encore 18 consequence suivante:
+
+ῑὲἕ, - (Ξῇ), 1 <μ (18)
+(188118 (188 soit la position (18 point B dans 18 (18818188(2).01·, 188
+inegalites (17) et (18) donnent:
+
+32-(3{)„ ε <{2(⁷0‘÷0÷1}ss2· (1⁹)
+
+Donc, si petit que soit μ, 11 sera possible (18 determiner ὀ (18
+faeon que l'inegalite (11) entraine l'inegalite (19), (188118 (188 soit 18
+
+position (18 point B (1888188 limites (18 (10818188 (2). Ρ81· consequent
+
+notre theoreme est demontre.
+ξ 17. Νο88 pouvons inaintenant (1818081181- 88 toute rigueur 18
+
+theoreme suivant: 18 quantite:
+
+d G (Ο. B, m2)
+
+divo‘ (20)
+

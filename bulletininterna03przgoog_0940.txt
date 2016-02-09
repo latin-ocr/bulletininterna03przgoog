@@ -1,0 +1,50 @@
+884
+
+Diese Ausdrueke konnen numlieh leieht mit Hilfe der Beziehung
+(16) der fruher zitierten Abhandlung erhalten werden. In der Folge
+muss auf die bezugliehen Reehnungen des naheren eingegangen
+werden.
+
+Die eben angefuhrten Betraehtungen haben zum Zweeke die
+Aufstellung derartiger Funktionen von Ῑι, lc. ω und deren Differen-
+tialquotienten zu erleichtern‚ welche die Eigenschaft besitzen, dass
+sie allen Transformationen von der F orm (33) gegenuber invariant
+bleiben. Um diese neuen Differentialinvarianten von den frfiheren
+zu unterseheiden, wollen wir fur diese die Benennung Differential-
+invarianten der Haupttangentenkurven benutzen. Wir bemerken
+dabei‚ dass wenn man 111 einer solchen Differentialinvariante von
+dem speziellen Parametersystem ²17²) der Haupttangentenkurven zu
+dem allgemeinen Parametersystem iibergeht, so erhalt man eine
+derartige Funktion der Ableitungen von x, y, z nach den Pamme-
+tern, welche sowohl jeder linearen Transf‹›rmation der 33, y, 2, wie
+311611 jeder willkurliehen Transformation zweier Parameter gegen-
+fiber unverandert bleibt.
+
+Wir setzen verane, dass unsere Flaehe keine Regelflache ist.
+Diese Voraussetzung ist 111 unserem Falle damit gleiehbedeutend,
+dass keine der Grossen 91 und 92 identiseh gleich Null ist. wir
+
+wellen aus (1611 zwei letzten Gleiehungen (32) die GrOssen ΥΕ und
+νᾶ bestimmen. Es ergeben sich dio ἎΤ61Ὓ6·
+1315} 1ιὲ κοῦ
+
+(37) Via:- {5 -3ῑηθ, VG— -μ φὲ-ξεῑηθ.
+91 92³³*
+
+Mittels dieser Formeln werden wir zuerst zwei invariante Opera-
+tionen aufstellen. Man beaohte, dass die Ableitungen:
+
+df— 1 &s df— 1 &j
+ds1 νΕ &a ἀεὶ :VG &v
+
+allen Transformationen von der Form (33) gegenuber invariant
+sind. Mit Hilfe der Formeln (37) uberzeugt man sich leieht, dass
+
+Γ- 1 Ss— εἰηθ df
+ΜΞ mou- “qufws,
+1 Sf sind df
+
+Vs Ξ 1232} ἐνυ- = {H} as
+
+(38)
+

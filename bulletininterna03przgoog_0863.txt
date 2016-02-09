@@ -1,0 +1,45 @@
+813
+
+8 l'equation de Laplace et au domaine (D') exterieur 8 18 ligne (S)
+prend a l’infini 886 valeur positive differente dc zero,
+
+ἓ 7. Existence de 18 (1611166 suivant la normale et symetrie (16
+la fonction (16 Grcen. Nous avons vu 88 ἓ 4 que 18 determination
+(16 18 fonction de Green se ramene au Probleme de Dirichlet (ge-
+861811861 lorsque m> 0). Designons pour un moment- par ho la fonc-'
+tion qui represente les valeurs peripheriques de la fonction deman-
+(166 (18118 16 Probleme de Dirichlet.
+
+Il est tres 8186 (16 voir que, (1888 16 probleme que l’on a a 16-
+soudrc pour calculer la fonction (16 Green, 18 fonction ho jouit (16
+18 propriete suivante: 16 potentiel derivant d'une double conche de
+densite h„ possede une derivee determinee suivant 18 86118816 a la
+ligne (S). Par consequent, pour resoudre 16 1116616816, 68 pourra ap-
+pliquer la formule (3) p. 431 (16 1868 816186116 deja cite a 18 p. 8063
+on devra seulement, (1888 16 688 (16 l'equation de Laplace, quand il
+s'agira de 18 fonction de Green relative 88 (16188186 (D‘) et lorsque
+16 point A se trouvera (18118 18 region infinie (Ro) prendre 86111 (16
+(16681188861 18 16181816 1811116166 (18 pole 2= - 13 68 y arrivera
+611 templacant 18 fonction h„ par 18 (1111616866 ho —- 6, 68 designant
+par c une (18881116, facile 8 determinet, dependant seulement de la
+position du point A3 18 fonction ψ (Α, Β) entrant (1888 18 16118816
+(5) prendra alors 18 forme suivante:
+
+Ψ (A, Β) = v ‘'l'’ ⁰:
+611 υ est 18 fonction foui-nie par 18 16118816 considet-ee plus haut
+pour λ = —— 1. D’apres 66 qui precede, 18 fonction de Green
+
+pourra etre 18186 8688 18 161186 d’unc somme dont un terme 8618
+1186 fonction possedant des derivces finies ct continues dans 16
+voisinage de 18 ligne (S). 16 second terme etant un certain po-
+1681161 v de double couche. La densite de 18 double conche dont
+derive le potentiel v sera une combinaison 11868116 a coefficients
+constants (16 18 1781681 peripherique d’un potentiel dc simple cou-
+che et des valeurs peripheriques interieures et exterieures d'un
+potentiel vo, de double conche, admettant une derivee determinee
+suivant la normale a la ligne (S). En partant de 668 161881-
+ques on reconnaitra‚ avec un peu d'attention‚ que la fonction v
+admet une derivee determinee suivant la normale a la ligne (S);
+derivee qui, consideree comme fonction (16 18 position du pied dela
+normale a laquelle elle se rapporte⁷ sera continue en chaque point
+

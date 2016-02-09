@@ -1,0 +1,55 @@
+584
+
+jamnis de perte on de gain plne considerable que l'enjeu simple.
+On seit qu'en general les chauces ne se balancent pas exactement
+et que le montant de 16 somme perduc ou gagnee s'eleve avec 16
+nombre dee coups. Il sera utile d'illuetrer cette remei-que par un
+calcul simple, base sur 16 supposition de chauces egeles pour les
+coups favorables (-Ι-) et defavorables (—), dont le nombre total soit
+n. En considerant tontes les combinaisone possibles, on trouve 16
+
+probabilite pour m coups (-†—) et n-—m coups (—)‚ c’est-e-dire pour ·
+
+nne somme (2 m—n) positive:
+
+nl
+2⁸ m! (φτ-τω] ’
+
+ 
+
+Βόὺ resulte 16 valeur moyenne de la deviation, positive ou ne-
+
+gative:
+22=2 mma-'²2
+
+ 
+
+si nous supposone, pour simplifier, un nombre n pair.
+
+,Cette expression se transforme, en vertu du theoreme binomia]⁷
+et devient
+
+(1) v=33'-⁸;({)'‚
+
+ce qni pour des nombree n grande ee reduit approximativement 6
+
+(2) · ν τ-Χίὲξ
+
+11 en resulte, que 16 vitesse transmise 6 16 particule M (etant
+en repos) ,par une collision directe avec une molecule m, donee d'nne
+
+vitesee c, ne sera que C= ’ζ’-ξ, 06 qui est de l'ordre de grandem·
+
+M
+calcule par Nageli, et 16 valeur moyenne absolue de 16 compo-
+eante dans une direction fixe X sera plus petite encore. Mais il·
+faut consideret que 16 particule M subira plus de 101⁶ collisione
+par seconde dane un gaz et 102⁰ collisione dane un liquide, dont
+l’effet e'annulera en genera13 mais il y aura toujours un exceS, po-
+sitif ou negatis, de 10⁸ ou 10ιο collisione, et par consequent la par-
+cm
+
+ticule Μ atteindrait une vitesse de 10—10³ ᾗ dane 16 direction,
+
+positive ou negative, dee X.
+

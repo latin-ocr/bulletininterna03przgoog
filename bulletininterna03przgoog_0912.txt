@@ -1,0 +1,47 @@
+862
+
+entraine l'inegalite (10). Dono dans le eas particulier οὺ 13 relation
+(3 ) 3 lieu, notre proposition est demontree. Le eas general se ra-
+mene au eas particulier qui vient d'etre considere en remarqnant
+que les equations (2) et (9) donnent:
+
+“:slhffl— 12<PJJEG123312²²²²> ds 4-11(P)v.
+
+ 
+
+ς’ 27. Considerons encore un point determine P sitne sur 13 ligne
+(S), mais supposons maintenant que le point P ne coincide aveo
+aucun sommet de cette ligne. Prenons‚ sur le „eote“ de 13 ligne
+(S) portant le point P, ee point lui-meme pour origine des ares et
+supposons que 13 fonction h (A) consideree comme fonction de l'aro
+
+S :1⁰71 jouisse, lorsque 13 valeur absolue de 13 variable 8 ne de-
+passe pas une certaine limite, de 13 proprieto suivante:
+
+(ll) ΙΙι(ιε1)--(α.-4-ῖ>ε)ξ<0 sim
+
+en designant par α et b des constantes queleonqnes, par C une eon-
+stante positive et par p un nombre different de zero et positis.
+
+Je dis que, dans ees eonditi0n8‚ 13 fonction u definie par 13 for·
+mule (2), jouira de 13 propriete suivante: 13 quantit&
+
+du
+d NP
+
+existe. Prenons le point P pour origine des coordonneeS, dirigeons
+l'axe (les y suivant la normale 3 13 ligne (S) vers l'interienr dn
+domaine (D) et supposons que le sens des axes positifs ait ete ehoisi
+de faeon que l’on ait:
+
+121³ l =1.
+{dxjma
+Posons:
+w= {·(e”'²—†—e’”⁸²)-}—?bffi(e”—e-”²)
+(12) u1=u—-w.
+
+Designons par k (A) 13 valeur de la fonction w en un point A
+sitne sur 13 ligne (S) et posons:
+
+h1(A)=h(A)—k(A).
+

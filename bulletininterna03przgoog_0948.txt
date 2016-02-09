@@ -1,0 +1,58 @@
+892
+
+Aus' der ersten von den Formeln (32) und aus den Formeln (37)
+folgt:
+
+ 
+
+12² kz
+ω == 209 (fif—59²3 m sin⁶ θ ,
+worans sich die fragliehe Differentialinvariante:
+(50) T: ω —— loq (Ῐι2 Is2) = loq ’,ἓξὲξ
+
+ergibt. Wenn man auf dieser Differentialinvariante die Operationen
+Uf und Vs ausfuhrt.‚ so kommt man wieder auf Differentialinva-
+rianten der speziellen Grruppe. Es mag daher von Interesse sein
+zu fragen, welche Relationen zwisehen diesen Differentialinvarian-
+ten und den Differentialinvarianten der Nummer 10 stattflnden.
+
+Man hat:
+1
+
+U('J’) = ἠ-ἓῖὲ [kk-<010 - 2(Ιι·1ι,ο -Ι- ΙιῘε,0)],
+1
+h} ga}
+
+und auf grund der Formeln (41) ergibt sich:
+(51) U(T)=-2(H1—}-K1)‚ VkT)=·-2(H2 ÷K2)-
+
+Diese Grfflen konnen durch geometrisehe Grossen folgendermassen
+ausgedruekt werden:
+
+U (T) = -2 ⁸3²² θ {91 ΖΞ -1-92 {Z} †122 9192 -1-(391- 2q1)91 92 coty HJ,
+Ι.
+
+9ιὲ θεὲ
+V (Ίῢ = -gffl ⁴3 1- 91 (13² — 92 (ἐξ -1-2219192 4- <392 — 292)9192 ⁶0t9 θ,
+9 92 “
+
+ΠΤ) == [kk ωο, - 2 (k 1201 -Ι- h hoo]
+
+2 εἰη θ J ἀφ, d
+
+Diese Formeln (51) beweisen2 dass IJOE’) und V(T) auch bei
+der allgemeinen linearen Gruppe invariant bleiben und wenn man
+ausserdem die Formeln (45) in Erinnerung bringt, so sieht man,
+dass die Differentialinvarianten (41) der allgemeinen Gruppe durch
+die Grnssen (45) und (51) ersetzt werden k‘Onnen. Wir wellen zusehen,
+welche Form dabei die Relationem (48) und (49) erhalten werden.
+
+. Durch Aufli33ung bekommt man:
+
+Η1 Σὲ ωΤΗ-εη», K1 = - (ΜΤ) -3P,
+H2--z--Vsw—-3Q, 1¹⁷2=÷Vffl¹>÷303
+
+ 
+
+ 
+

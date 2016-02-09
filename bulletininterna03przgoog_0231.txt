@@ -1,0 +1,49 @@
+207
+
+Il en resulte la probabilite que 18 1110166016 811 81161111 1111 (16-
+placement (8...ωῆ- da· (18118 1111 temps t (egel ὲῖἒλῖ)
+
+p,(ae)doe= 3 ‘'e-”d dcc. (13)
+
+On 611 (16(11111 16 chemin moyen parcouru dans ce temps, d’une
+
+facon analogne 8 (31);
+ἷζε Β-Ὥ. (14)
+
+3η
+
+Remarquons encore que le carre moyen du chemin peut etre
+obtenu aussi par une methode directe tres simple: le carre moyen
+de la distance r entre les points d’une sphere et 1111 1101111 (1011116
+681 egal 8 18 somme des cartes du rayon a de 18 sphere et de 18
+distance b entre son centre et le point donne, puisque le terme der·
+nier de l'expression ν’ = a¹-l-b²-{— 2 ab cos θ ala valeur moyenne
+zero. Il en resulte que 16 carre moyen de 18 distance atteinte au
+
+moment du n-ieme choc est egal 8 18 somme des carres des chemins
+libres precedente, c'est-a-dire:
+
+νξ-τ-λῖπ, (lo)
+
+cette expression est valable pour un n quelconque.
+
+ξ 5. Essayons maintenant d’effectuer le calcul avec plus d'exac-
+titude, en supprimant la supposition du ξ 4. 011 8811 que les 111016-
+611168 n'ont pas tontes le meme libre parcours λ. La probabilite d'en
+trouver une qui s'est eloignee d'une distance ρ (111 point de depart
+
+sera ε’ ἰ . ΙΙ y aura e- ’ξ’-(ξ 611068 (18118 18 60116116 spherique d'e-
+paisseur ἀρ, (10111 11116 partie, (16111116 1181· 16 rapport 2Ῑὲἔὲ = Zeera
+
+comprise entre les abscisses x et x —l-dx3 ainsi 18 1110118111Ιίῒρ 110111·
+qu'une 6011181011 811 11611 (18118 18 distance 25...ae -1- dx, sera en somme:
+
+putoe 00
+
+Ρ Ρ
+p1(x)doe= ε-ἶᾶρᾶῑεέἶ ἑὲ (16)
+2λρ ρ
+ρ- x ω
+
+011 110111· (168 abscissos negatives doit etre prise 18 valeur absolue
+

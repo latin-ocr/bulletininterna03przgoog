@@ -1,0 +1,49 @@
+203
+
+collisions, qu'il s’agit (18 88188181. Ces deux problemes donnent
+naissance aux deux notions suivantes: a) a 18 801108 (111 chemin
+moyen parcouru dans un certain temps, b) 8 18 801108 (18 18 (118-
+18888 moyenne parcourue jusqu'a la n-ieme rencontre. Un 888 8118-
+8181 (18 18 (18181818 881811 (110111 n = 1) 18 chemin „libre“ moyen.
+
+La superiorite de 18 801108 (a) 8 (b) consiste dans ce qu'elle n'est
+pas astreinte a l'hypothese des spheres rigides. La distance parcourue
+(18118 un temps donne est une grandeur bien definio aussi dans 18
+1
+rs
+Maxwell) entrainent les 8101888188 8111 (188 8118111188 (18 courbure con-
+tinue. Mais l'evaluation de cette ε(1188118111 (a) 881 11188 difficile que
+celle de 18 (18881118 (b). Meme pour un temps plus court que 18 du-
+ree moyenne du mouvement libre, 11 faudrait tenir compte d’une
+88118188 probabilite d'un‚ (18 deux, de 11018,.... 811088, 81 (18 18 1108-
+811111118 (188 811818188 811 zigzag, qui en 1888118181881, 88 qui provo-
+que une extreme complication dans 188 88181118. Pour un temps com-
+parativement long, 88 contraire⁷ ces raisonnements deviennent plus
+8111111188, 118188 (18’81018 18 valeur de (a) coincide avec 18 valeur cor-
+respondante de (b). Cela 18811118 (188 lois fundamentales de 18 1110-
+1181111118, qui exigent (18118 80118 888 que 18 nombre des collisione
+accidentelles n (18118 18 temps t soit relativement d'autant plus rap-
+proche du nombre moyen Ν, correspondent a 88 1818118, (1118 celui-ci
+est plus grand. Par consequent, les deux fonctions, designant 18 meme
+chemin, l'une en fonction de t, l'autre en fonction de n, deviennent
+identiques dans ce 888 limite.
+
+ξ 2. Oe qui precede peut 8118 illustre par un calcul tres simple,
+en faisant 18 supposition (88 que nous accepterons aussi (1888 88
+(1111 suit) que l'influence de la vitesse de la 1110188818 8111 808 λ peut
+
+888, οὺ (188 forces intermoleculaires quelconques (p. ex. d'apres
+
+8118 negligee, ou ce qui revient au meme, que les 1801888188 ont
+touj0urs 18 meme vitesse.
+On sait alors que la probabilite d'un chemin :c parcouru sans
+
+collision est:
+
+po Ξ [1- 7 (1)
+18 probabilite du mouvement libre pendant le temps t est donc
+- Εἰ, (2)
+
+Po = θ
+Bulletin 111. 5
+

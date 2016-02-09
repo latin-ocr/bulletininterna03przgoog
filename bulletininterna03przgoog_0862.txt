@@ -1,0 +1,49 @@
+812
+
+On conclura immediatement de 131, en remarquant que 16 rayon
+du cercle (Σ) peut etre pris inferieur ἐι toute longueur donnee 8 18881166,
+que 18 fonction (16 Green ne peut 611 886811 point de 18 region (Ro)
+prendre 8116 valeur negative. En somme, il est prouve que 18 fonc-
+tion (16 Green 116 prend une valeur negative 611 aucun point (16 18
+region (R). Recte ὲ, 61811111· qu'e, l'interieur de cette region, 18 fonc-
+tion (16 Green est differente de zero, A cet effet faisons 18 remar-
+que suivante: soit a 8116 fonction verifiant l’equation
+
+Au-m2uz—..0
+
+8 l’interieur d'une certaine aire et (G) un cercle de·centre 0 et 16
+rayon r sitne (18118 cette aireg on aura pour 18 valeur u (0) de 18
+fonction u en Ο, 8116 formule de 18 forme
+
+(7) · u (0) = ψ (r, m) u ds
+(ἆ
+
+611 l’integrale doit etre prise (18118 16 sens (168 arcs croissants 881-
+vant 18 circonference (16 cerole (0), 18 fonction ψ (ν, m), dont l’ex-
+pression explicite serait tres facile ὲ, ecrite, etant une quantite tou·
+jours positive.
+
+Voici 66 qu'il est tres aise (16 66861816 (16 18 formule (7): lors-
+qu'une fonction u 116 devenant jamais negative (18118 une
+8116 connexe (Ω) verifie (18118 cette aire l'equation
+
+Au—m2u=0,
+
+et lorsqu'en outre cette fonction s'annule, ne fut-ce qu'cn un point
+81186 ὲ, l'interieur de l'aire (Ω), 6116 cst nulle identiquement ἐι 1’111-
+terieur de cette aire.
+
+En s'appuyant 881· cette proposition, on voit de suite que‚ si 18
+fonction de Green G (A, Β, m2). considerec comme fonction (168
+coordonnees du point B, s'annulait 611 811 point (16 18 region (B)
+envisagec plus haut, 6116 86 reduirait 8 zero 611 tout point de cette
+region, distinct du point A. Or, 6618 est absurde. Dono 18 fonction
+de Grecn est differente (16 zero en tout point interient 8 18 region
+(R). Par consequent, 18 fonction de Green jouit bien des proprietes
+8118686668 (18118 66 paragrapho.
+
+Notons 611 pussant que 168 faits etablis dans 66 paragraph(- con-
+duisent 818 consequence suivante: 18 fonction de Gru-een relative
+
+ 
+

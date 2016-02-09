@@ -1,0 +1,49 @@
+803
+
+niedriger Temperatur eingedampft und der kristallinisehe Ruckstand unter dem
+Polarisationsmikroskop untersucht. Faus die Lesuug nur Kalium- nnd Natrium-
+chlorid enthsslt, besteht der ausgetrockene Riickstand nur aus kleinen Wiirfeln
+dieser Salze, welche als isotrope Korper auf das polarisierte Licht nicht reagieren.
+Dagegen verraten kleine Beimengungen von Chlor-iden oder §alfaten alkalischer
+Erden ihre Anweeenheit in dem Rliekstand durch entsprechende Doppelbrechung,
+welche sofort konstatiert werden kann.
+
+Aus dem mineralogischen Institut der Jagou. Univ. in Krakuu.
+
+51. M. S. ZAREMBA m. e. Funkcye Greena ἰ nlektore zastosowanle tel funkcyi.
+(Sur la fonction de (ir-een et ‹meumes-unes de ses applicatione).
+
+1. Introduction.
+
+ξ 1. .1’6ἰ ete aniene, Ξι l'occasion de recherches relatives Ξι une
+classe d'equation aux derivees partielles du 4-me ordre, recherches
+dont je compte publier les resultats dans un memoire ulterieim
+ἓι etablir une serie (16 ριὀρτὶέιέε (16 16 fonction de Green. Ces pro-
+prietes de 16 fonction de Green etant susceptibles d'applications va-
+riees et imponantes, il m'a semble utile de leur consecrer un me-
+moire special.
+
+Les theoremes que j'ai en vue sont, pour 16 plupart extreme-
+ment vraisemblables 6 priori. A cause de cela. il n'y 6 interet 6 en
+faire l'objet d'une etude particuliere qu’ii 16 condition de presentet·
+<les demonstratione parfaitement rigoureuses ne laissant subsistet
+aucune traee de doute. Si, comme je Vespere, j’ai reussi 6 satis·
+faire completement 6 cette condition, on m'excusera sans doute d'avoir
+donne quelquefois un peu trop de developpement peut-§tre Ξι mon
+exposition.
+
+ξ 2. Nous nous proposons d’etudier la fonction de Green rela-
+tive Ξι l’equation aux derivees partielles² Ξι deux variables indepen-
+dantes de la forme suivante:
+
+Ῐίἒ-ἷζ- -l—{g—tl - m2u— - 0. (1)
+
+οἰι m represeute un nombre reel et non negatis. En posent: suivant
+
+l’usage‚
+5³² ιι 9² ιι
+
+Au=c3u32 'l‘3yx
+
+Bulletln 111. 3
+

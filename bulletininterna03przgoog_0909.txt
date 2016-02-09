@@ -1,0 +1,49 @@
+859
+
+en designant par L le maximum de distance de deux points 3111166
+3111· 16 ligne (S) et par B 11116 longueur telle que, par chaque point
+de 16 ligne (S), on puisse faire passer 1111 cerole de rayon R exte-
+rieur 611 (1611161116 (D).
+
+La demonstration 631 immediate. Soit A‘ 16 point de (S) le plus
+voisin du point A (ou l’un des points jouissant de cette propriete
+si exceptionnellement il y en avait plus d'un). Faisons passer par
+16 point A' un eerele (C) de rayon R exterieur 611 (1611161116 (D) et
+designons par 9³ (A, B) 16 fonction (16 Green exterieure relative 6
+66 661616 61 6 l'equation de Laplaee. On aura:
+
+G (A, Β, η’) < ς’(Α, Β).
+
+Cette remarque faite, il suffit de se reportet 6 l'inegalite (1) (111
+6116111116 Ι pour s'assurer que l’inegalite (84) 6 11611.
+
+lV. Quelques applicatione. des theoremes precedents.
+
+ἓ 26. 061131(161·6113 11116 fonction definie sur 16 ligne (S) et soit
+lz (A) 16 valeur de cette fonction en un point A de 66116 ligne. De-
+signons par ds* l’element d’arc (16 16 ligne (S) relatis au point A
+et bernone-nous 6 61111161116 que l’integrale:
+
+(samma (1)
+
+ait 1111 36113. Si l'on pose alors.
+
+uzshsA) ᾀ-θ-(ἶέ- Afifflds (2)
+
+en designant 661111116 precedemment par G (A, B, Μ’) 16 fonction de
+Green interieure relative 611 (1611161116 (D) et 6 l’equation:
+
+A(}—m²G=-O‚
+
+16 second membre de l'equation (2) aura 1111 sens 61 16 fonction u
+des coordonnees a: 61 y du point B 3616 parfaitement determinee 6
+1’111161·16111· (111 (1611161116 (D).
+
+En s’appuyant sur les propositione, du ἓ 17, 611 &tablira 611 161116
+rigueur que 16 fonction u verifie, 6 1’111161·16111· (111 (1611161116 (D), l'e-
+quation aux derivees partielles:
+
+Au—m2u=0.
+
+Supposons que 16 fonction h (A) soit continue 611 1111 point P
+

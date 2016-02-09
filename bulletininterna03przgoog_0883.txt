@@ -1,0 +1,57 @@
+833
+
+connexe) formes par l'ensemble des cireonferenees (01) et (02) νό-
+rifie 11116 1116861116 de la forme.
+
+d<k
+
+R .-
+611 (1661811661 1161· k un nombre determine. Je dis que l'on aura:
+
+’ 4Κ1413η<Ε d
+dNA ABs
+
+ 
+
+(51)
+
+611 designant par E 1111 nombre positis dependant uniquement (166
+nombres a„ a, et k.
+
+On etablira aisement l'inegalite presedente en partant de l’equa-
+tion (42), en faisant usage de l'expression eonnue de la (1116111116
+
+dQ¹ (A‚ B)
+dN
+
+en tenant compte de l'inegalite (47) et en distinguant deux eas,
+‘suivant que 16 1101111 Β 661 111116 voisin du 661616 (01) que (111 cerole
+(0,) 011 qu’il n'en est pas ainsi.
+
+ΙΙΙ. ‘theorema 6111· 16 fonction de Green dans le eas general.
+
+ξ 16. Οο1161ᾶ610116 16 fonction de Green G (ξ, η, x, y, m') relative
+611 (1011161116 (D), interient a 16 118116 (S), et 6. 1’6(111611011;
+
+AG—m2G=0.
+
+Soit 0 un point queleonque sitne sur la ligne (S), ne coincidunt
+aveo 61161111 6011111161, 61 B„ un point 6110161 arbitrairement 6 1’11116-
+116111· (111 demaine (D). Pla9ons l'origine des coordonnees en Ο 61
+(1111860116 l’axe commun des η 61 (166 y suivant la normale ὲ, 16
+118116 (S) 611 0, vers l'interieur du domaine (D) Designons ensuite
+1161· oe ‚yo les coordonnees (111 1101111 Β0 61 1161· ρ 11116 1011811661· 61101-
+616 arbitrairement 6 cela pres qu ’6116 6011 11ιῖ 6 neure 6 16 plus
+eom-te distance du point B„ a 16 ligne (S).
+
+Cela 11066 considerons l'expression.
+
+ἑ) Q, ganam&
+η
+
+et 6111111060116 que η 1611(16 vers zero en restant positis, 166 (1661111166
+
+Α (1)
+
+ 
+

@@ -1,0 +1,54 @@
+876
+
+einfuhren und die fruhero Bemerkung uber dio Symmetrie in An-
+wendung bringen‚ so kann die zweite Relation folgende Form er-
+
+hulten:
+
+<—ffl>—(>
+
+ 
+
+(19) eu &v
+-. Δ [2(A“ {g} - B„ Ἓξ) - A“ D‘20—fl-2B3‘D‘Q„ - B‘ Dm] = o.
+
+Wir wollen noch darauf eingeben‚ auf welche Weise die Rela-
+tionen (18) und (19) von den Ableitungen (15) besiehungsweise
+(16) abhangig sind. Es ist leioht' zu konstatieren, dass dieso Ablei-
+tungen in (18) in der Kombination:
+
+ 
+
+ 
+
+und in (19) in der Kombination:
+
+austraten. Daraus folgt, dass wir als unabhnngige Differentialinva·
+rianten die Ableitungen:
+
+&920 mm„ &23 εφη), &²D‘02
+
+&effi-² ’ὲῖιεο ² ευ* ² Ἐπ’ —ff‘
+32D¹¹02 εᾱηψ02 &121¹oe 3212‘120 2²D1‘20
+
+&12² ’ Θαέυ ’ 'Su‘ ’ Θαόυ ² ἔπ’
+
+(20)
+
+ 
+
+mit Hilfe der Relationen (18) und (19) durch die Grffissen (13) und
+(20) und durch die Differentialinvarianten niedrigerer Ordnungen
+ausgedruekt werden kbnnen. Die Grssssen (13) und (20) stellen 15
+Differentialinvarianten 4ter Ordnung dar, die voneinander und von
+den Differentialinvarianten niedrigerer Ordnungen unabhangig sind.
+Hiermit ist derjenige Teil der gegenwartigen Betraehtungen erle-
+digt, welcher die Differentialinvarianten 4ter Ordnung betrifft
+
+6. wir gehen nun zu den Differentialinvarianten der Ordnung
+n > 4 uber. Duroh Differentiation ergeben sich aus den Formeln
+
+(13) die Formeln:
+
+ 
+

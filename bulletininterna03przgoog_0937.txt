@@ -1,0 +1,52 @@
+881
+
+rentialinvarianten der allgemeinen linearen Gruppe durch die Funk-
+tionen der Grfissen (23) 1111(1 der Differentialquotienten, aller Ord-
+nungen der Grffissen (23) und (24) gebildet und zwisehen allen die-
+sen Grssssen bestehen nur die Beziehungen (25), (27) und solohe,
+
+die aus den letztgenannten dureh Differentiationen und Elimina-
+tionen abgeleitet werden kiinnen.
+
+8. Wir wollen jetzt annehmen, dass die Koordinatenlinien auf
+der Flaehe Haupttangentenkurven sind, d. h. dass
+
+120 = O , [02 == O .
+Wir werden dabei die kurzeren Bezeiehnungen:
+In = ω, I‘02 =h, I''20=k
+
+benutzen und die Differentialquotienten dieser Grz3ssen in derselben
+Weise bezeichnen? die unter 1. fur die Differentialquotienten der
+Grossen x, y, z angenommen worden ist. Die Relationen (25) ergeben:
+
+1¹20 = {r (010 2 Ino-2 = ἑ (001 (28)
+und aus den Formeln (26) folgt:
+a‘=a”={w11-}—hk,
+β’Ξῆιοῆ-ὲῆωιυ, β”ΞῙοοι-Ι-ὲῖεωοι.
+
+Ε8 1888611 sich also -die Relationen (27) in folgender Gestalt dar-
+stellen:
+
+1¹20 = hk01 -1· ῘίῙῑοι -1- 1} (⁶⁰12 - ὲ ωυι (011 - heom, ·-· Ῐῑω (010 ·-· ῘὶῘίωοι),
+Icffl -- Jahn, —{— mem -1- 2} (1021 —— {- 0010 w„ -— k (002 —-— 1⁶01 (⁰01 — hkwffl).
+
+Die Relationen (28) und (29) lehren, dass aus diesen Relationen
+keine Beziehungen zwisehen den Grbssen:
+
+} (29)
+
+&1-2207 ωλ-3.1,..., most-2 (λι-534...) (30)
+
+und den Grossen:
+
+ἢ, last-32 host-² (2:23, 4‚...) (31)
+k, 1:24. 1⁷ Ῐΰλ-εςο
+
+durch Differentiation und Elimination abgeleitet werden konnen,
+dass aber mit Hilfe dieser Relationen und soleher, die aus ihnen
+durch Differentiation folgen, alle Differentialquotienten der Funk-
+tionen 1‘20, 1‘02„ I“20, [⁰02 und diese Funktionen selbst sich dureh
+
+die genannten Grnssen ausdrueken 1888611. Faus 8180 die Koordinaten-
+eunoun 111. 2
+

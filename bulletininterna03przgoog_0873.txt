@@ -1,0 +1,56 @@
+823
+
+en designant par V‘ et VH 166 bornes inferieure et superieure de
+la fonction v(B) dans la region du plan definio par l’inegalite (18).
+
+ἓ 13. 00116ἰά6το66 deux cereles egaux (01) et (0⁸) de rayon R,
+situes' dans le plan exterieurement l'un ὲ l'autre. Designons par 01
+
+et 0, les centres de ees eereIae, par 0 le milieu du segment 0—2'02
+et par A¹ et A, les points—limites du faiseeau dont sont partie 166
+cereles consideres, le point A¹ etant interieur au eerele (01) et 16
+point Α2 au eerele (0,). 1306066
+
+ΟΑι--τ-ΟΑἳ-τ--α
+OO1=OO2=b
+
+designons ensuite par 2 a l’angle 6066 lequel 6116666 des deux eereles
+est vu du point O et par l le minimum de distance de deux points
+sitnes l'un 661· 16 cerole (01) et l’autre sur 16 661616 (02).
+
+Nous aul-ons:
+
+α -- b eos α (22)
+R = b sin α (23)
+l = 2 b (1 — sin α). (24)
+
+Si l'on designo par rl et r„ 166 distanees d’un point variable B
+
+anx points Αι et A„2 par (ἓ) la valeur du rapport ἒ lorsque B
+
+vient 661· 16 eerele (0) et par (ἓ )c 66116 qu'il prend lorsque B
+
+vient 661· (0,), 011 anta:
+
+(sl) ,Poja-ff-ssiPa-ss· (25)
+r, „l—eosa-—sina-kl ²
+
+ 
+
+ 
+
+(Q) :cosa-fsin—a-fz · (26)
+
+ι’, c, 606 α-Ϊῆ- {zi—n am-T—'I
+
+ 
+
+Gela pose, eherehons une fonction harmonique ὲι l’exterieur (166
+6616166 (01) et (0¹2), reguliere ὲ, l'infini, 66 teduisant ὸ, 666 fonction
+continuedonnee Ιι 661· 16 666616 (0,) et ὲ zero sur 16 661616 ((31).
+
+Α eet effet considet-ons une suite infinie
+
+. vo, vl, v„... (27)
+de potentiels legarithmiques derivant de doubles 60661166 portees
+

@@ -1,0 +1,47 @@
+882
+
+linien Haupttangenoenkurfren sind, konnen die Entwiokelungen und
+Batrachtungen‚ welche die Differffltialinvarianten der allgemeinen
+lineat-en Gruppe betreffen‚ mit Hilfe der Grtsssen (30) und (31) ge-
+{uhrt werden.
+
+Im Faue der speziellen linearen Gruppe wird ausser den Gr&-
+ssen (30) und (31) noch die Grosse ω eine· Differentialinvariante.
+
+9. Wir wenden uns nun der Aufgabe zu, die Differentialinva-
+rianten (30) und (31) durch Grbssen auszudruoken, deren Benutzung
+in der Flaohentheorie ublich ist. Wir werden dabei die Vorausset-
+zungen und die Bezeiehnungen annehmen, die wir in der Num·
+mer 2 der Abhandlung: „fiber Krummungseigenschaften der Scha-
+ren von Linienelementen⁴⁴ 1) ausfuhrlich besproohen haben. Wir ha-
+ben dort unter anderen die Formeln gehabt:
+
+&u — &v
+und wenn wir ausserdem die Bezeichnungen:
+
+— dlquE
+
+rl -· dsl 9
+
+ 
+
+ 
+
+ 
+
+3²f=G(d²f df).
+
+2232 5334& 0132}
+
+Mit Hilfe dieser Formeln3 sowie mit Benutzung der Formeln (19)
+aus der oben zitierten Abhandlung und unter Bomoksiuhtigung
+der in anserem Falla bestehenden Beziehungen:
+
+n1=n2=0
+
+erhalt man zannohst die Formeln:
+
+¹) Pmee matemataeflzyezne. Band xvu, wat-seban 1906 S. 41--76,
+
+ 
+

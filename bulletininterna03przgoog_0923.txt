@@ -1,0 +1,45 @@
+867
+
+ 
+
+ο
+'⁸ ι ” ι 3 ⁸ ι ι gf
+ΣιΣιιΖη,ῖ·-;0, ΣιΣιιῃαῆ, ΞΟ, (2)
+⁰ ο Cyna ο Θῖυι
+nv' η γ’ εχ· ’.Ψ ’ &f
+24 ,ιῖῑχ--ΞΟ, 21 &Zaa-:02
+0 τ 32‘1 0 0 cxi*
+’⁴ t ⁷⁸ ι π '⁸ t ⁹⁸ ι ἢ
+Σι Σὲ 4²!st Εἰ· = O, Σι Z* ἔδει ff* = 0.
+92:st &yn
+0 ο 0 0
+
+Dureh Integration dieses Systems von Differentialgleiehungen wird
+man alle Differentialinvarianten bis zur n-ten Ordnung inklusive
+finden kimnen, wobei zu bemerken ist, dass die bei den Buehsta-
+ben Σ stehenden Akzente bezeichnen sollen, dass fur iund k nieht
+gleichzeitig der Wert Null angenommen werden kann.
+
+Es ist leieht zu ersehen‚ dass das System (2) keine Diffe-
+rentialinvarianten erster Ordnung liefert. Ferner sieht. man auch
+ohne Schwierigkeit‚ dass fur jede andere Ordnung n alle Gleiehun-
+gen dieses Systems voneinander unabbangig sind. Da nun (liese
+Gleiehnngen ein vollstandiges System bilden, so kommt man leieht
+zu dem Sebluss‚ dass die Anzahl der betraehteten Differentialinva-
+riaten 2ter Ordnung gleieh 7, die dritter Ordnung gleieh 12 und
+uberhaupt die der n-ten Ordnung gleieh 3(n-†—1) ist. Wir berner-
+ken dabei‚ dass wir nnter der Anzahl der Differentialinvarianten
+n-ter Ordnung die Zahl derjenigen Lisssungen des Systems (2) ver-
+stehen. die voneinander und von allen Differentialinvarianten aller
+niedrigeren Ordnungen unabhangig sind und mit ihnen zusammen
+die Gesamtheit der L1’3sungen des Systems (2) ausmaehen.
+
+Wir werden die Differentialinvarianten des Koordinatensystems
+u, v in einer Form angeben‚ die unmittelbar auf alle Falla ange-
+wendet werden kann, in denen die Kurven u=eonstr und v=eonst.
+nieht einander konjugiert sind. Es ist leieht‚ alle diese Differential-
+invarianten sofort anzugeben‚ da jede Determinante dritter Ordnung
+der Matrix:
+
+1¹}
+
