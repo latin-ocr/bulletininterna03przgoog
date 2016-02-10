@@ -1,0 +1,60 @@
+900
+
+(73) αἱγμ-βρεο (ετ-..0, 1, 2)
+
+stattfinden. Dabei braueht man nieht hervorzuheben, dass in keiner
+Reihe (72) neben den versehwindenden Grfissen auch niehtver-
+sehwindende stehen 1161111611. Sobald namlieh die Beziehungen (70)
+und (73) stattfinden‚ so hatte eine 6016116 Voraussetzung zur Fulge,
+
+dass das System (65) durch 9=0 oder Ξ) = Ο befriedigt werden
+
+kann, was jedoeh ausgesehloesen ist.
+Wir wenden uns nun zu dem Falle der zweifaehen Wurzel
+
+der Gleiehung (64) d. h. zum Faue, in welchem nieht alle Koeffi-
+zienten K„ Q—4 und ΗΒ gleieh anl sind und wo die Relation:
+
+(74) 41(ι Ηε-(Ω-ψ--ο
+
+stattfindet. Da die Werte 0=0 und {zo das System (65) nieht
+
+besriedigen konnen, so ist leieht zu ersehen, dass die in Rede ste-
+hende zweifaehe Wurzel jedenfalls nur dann dem Systeme (65)
+geuugen kann, wenn keine von den Grossen K„ Q—4‚ ΗΞ gleieh
+Nun ist. Die hinreiohenden Bedingungen hierfur erhalt man durch
+Hineinsetzen des Wertes:
+
+Ω —— 4
+Q= ῥΚ-ι-
+111 (116 Gleiehungen (65). Es ergibt sich:
+K1 U(·Q)- (9-4) U(K1)=4K1²†}B1(9-4)(K1-Ha),
+Κι V(52)- (Ω - 4) V(K1)= - (Ω-4)’-Ι-ἓΚι (Ω-4)(Κε-Η)
+Es lasst sich leieht naehweisen‚ dass der zuletzt erorterte Fan dem-
+
+jenigen untergeordnet werden kann, in welchem alle Unterdetermi-
+nanten zweiten Grades der Determinante Δ gleieh Null sind. Mit
+
+(75)
+
+Hilfe der Formeln (67) und (69) lassen sich die Beziehungen (75)
+111 (161· Form:
+
+y²=(.Q—-4)A1-†-K1B¹ =0‚
+
+71 = -“ [QG-4) Ast ··{- K1 B2] = 0.
+
+darstellen. Auf grand der Beziehung (74) erbalt man fur ρ auch
+die Formel:
+
+(76)
+
+2H2
+ρ ²² ῑρῐῑ
+
+ 
+
+ 
+
+ 
+

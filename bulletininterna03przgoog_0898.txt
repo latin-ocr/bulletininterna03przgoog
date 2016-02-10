@@ -1,0 +1,60 @@
+8218
+
+Enfin‚ pour demontrer encore l'inegalite (47), on ponrra procedet·
+de la faqon suivante. On commeneera par etablir, au moyen des
+relations (49) et (50) que l'inegalite (51) entraine les inegalitee
+suivantes:
+
+'3“{{-1'²){<16(1÷02m,)3{¹{
+
+ἶ Qss-’ffl ¹<16‹11†0¹m2)}{ ,
+
+Ensuite on decomposera l'integrale double qui entre au second
+membre de l'equation (49) en deux autres etendues‚ l'une au do-
+mnine (51) et l'autre au domaine (52). Soit
+
+ssu(5‚v)9⁰'sx>y25‚⁷7)d{d⁷2
+Ω
+
+l'integrale etendue au domaine (Ω) determine par l'inegah‘te (51).
+‚Les inegalites (50) et (53) permettront de calculer facilement
+une limite superieure de la valeur absolue de la. quantite:
+
+gmssa-{m&semmam -
+
+(Ω)
+
+Ayant cette limite superienre, on aebevem sans peine la de·
+monstration de I'inegalite (47).
+
+En resume, les propositione enoneees au debut de ee paragraphe
+doivent &tre regardees comme demontreeS.
+
+Faisons observet· que les remarques faites ἐι la fin du ξ 17 per·
+mettent de prouver tres aisement que l’on a:
+
+d dG(A,E‚m²)— d ‹QG-(Aanffl)
+
+(53)
+
+effi} *c'lNs “““ dlv) ’“ “ οῑΝΕ
+Notons encore qu'en designant par:
+d² G (A, Ε, ἰπὶ)
+
+ὂΝῑςῆζ”
+la valeur commune des deux membres de l'inegalite precedente,
+on aura:
+
+(54) ‘²² ⁶3(an 2²3)
+
+&NA &NE
+
+οη vertu de l'inegalite (27).
+
+M
+ᾗῇ
+
+ΙΙΛ
+
+ 
+

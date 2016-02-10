@@ -1,0 +1,48 @@
+588
+
+le centre de 16 particule M, aux momente des collisions successi·
+ves, qui changent, chaque fois, 16 direction de son mouvement de
+l’angle ε.
+
+Supposons les longueurs 01³0, P„ P„ P1 P2.... egales entre elles
+(c'est ce qu'on peut appeler le vrai parcours libre l du corps
+Μ) et supposons egales les probabilites du mouvement dans tontes
+les generatrices du 6666 ε, forme autour de la direction du mouve-
+ment precedent, (1666 666 pointS.
+
+Oe que nous cherchons‚ c'est 16 valeur moyenne du carre de 16
+distance A„= OF„ si la longueur l, le nombre n et l'angle ε sont
+donnes.
+
+Construisons d’abord 666 6911616, 6 rayon egal 6 l'unite, et (16
+606 centre Ο tracons des droites paralleles 6 0 Po, P„ P„ P¹ P„
+qui y auront les points d'intersection Q0‚ Q„ Q2 . . . Designons les 66-
+gles X Ο Q„ X Ο Q„ . . . par ao, a1‚.. . les angles entre les plans
+XOQ„ et ρο 001. entre XO Q, et Οἱ OQ„ etc„ par (pl, φε...
+
+Il en resultet
+
+606 a„ = cos (ι,μοι 606 ε —†- sin (ιω,1 sin ε 606 cp„
+et par un procede analogue‚ par rapport aux· axes Y, Z:
+cos βπ = cos βπ,1 606 ε -1- sin ssn-1 sin ε 606 ψ,
+606 γ, = 606 γ,,-1 606 ε —f- sin y„-1 sin ε 606 x..
+
+Remarquons que 166 angles cp„ tp„ χ,, 66 different entre eux que
+par des quantites constantes, lorsqu'on deplace 16 droite OQ„ sur
+la surface du 6666, construit autour de O ΘΗ, afin de lui donner
+tontes les directions de probabilite egale. On aura donc dq),=
+σῑψἰ -- dx„-
+
+La meme operation nous donne les valeurs &galement probables
+de a„ d'oil resulto 16 ν61661· moyenne:
+
+(5) §Lai 008 α.. ἀφ = cos m,-1 cos ε.
+
+Revenons 6 16 question proposee. La definition (16 Λ, donne:
+
+33:422„ Meos a„ ψ 002, α, -μ eosa„]2 -ι- [005ss0÷002ss1...÷
+
+(6) . -Ι- 00³ ss„]⁸† [00³ νο -Ι- 00⁸ m* } ᾱφι dmm-dm„-
+
+ 
+

@@ -1,0 +1,52 @@
+589
+
+L' integrale signifie une integration successive d’ apres daep„
+d<p„-1‚...d‹p1 dans les limites 0 et 2π,· designons la par I..
+
+En separant cos a„ cos βυ 668 γ, (111 reste des expressions dans
+les parentheses‚ et en y appliquant (5) et les deux autres equations
+analogues on obtient:
+
+1„ = 1,-1 ÷1 -1- 2 002 ε noos a„ -ι- . .. 00³ a„„1]0.02 α,,,1 -ι-
+÷[0os ss0÷---eos β,-,] eos ss..-1÷---}doe1...doe„-1
+
+οὺ l'integrale, que nous designerons par C„-1‚ peut etre evaluee par
+un developpement successif d'apres:
+
+0,,,1 = 1 -Ι- 668 ε 0,,,2.
+On aura donc la form ule:
+
+1 -— cos· ε
+
+κΞῙκ-ι-ΡῙ-Ι-ῗθοΒΒΙ--οωε (7)
+et enfin, le resultat final:
+
+1†cos ε 1-2 cose—cos¹e—†-2 cos'428
+*²⁷²41-008stW · (8)
+
+Comme ε est uu angle tres petit, on peut mettre cos ε = 1--6,
+ce qui donne:
+
+ 
+
+ 
+
+ 
+
+1„={5⁷-²÷1-n-2(-1-“-⁶&512-(Q¹3. (9)
+
+ξ 12. 11 faut distinguer, maimonem, les cas suivants:
+1) Si n est un nombre grand⁷ mais pas si grand que le produit
+nd puisse &tre comparable ὲ. Punite, 611 aura approximativement:
+
+I„=n²;ou X„=nl; (10)
+
+donc la distance A„ sera egula, tout simplemeut‚ ὲ. la longueur du
+chemin. La courbure du chemin est negligeable‚ on peut le regar-
+der comme droit.
+2) Si le nombre n est plus grand, il faut tenir compte d’une
+correction:
+X=nl(1--⁷36‡³ . ⁶ (11)
+Le raccourcissement de la distance par suite de la courbure
+entre en compte.
+

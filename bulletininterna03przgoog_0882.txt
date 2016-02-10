@@ -1,0 +1,68 @@
+832
+
+2⁰ Il existe un nombre positis Mae ne dependant, eomme le
+nombre Mn que des nombres οιι 61 a„ tel que l'on ait:
+dK (ΝΑ, Β) Μ2
+
+,,,-, n ‚Si-ff
+
+pour 1011166 166 positione du point A sur le cerole (0,) 61 du point
+B 6111· 16 eerele (02).
+
+J’ajoute que, dane 16 premier membre de l'inegalite preeedente‚
+j'anrais pu supprimer le signe de la valent absolue parce que, eomme
+on 16 prouverait aisement, on au rait alors:
+
+*a— d K (A, B)
+dN„ ΒΝ,
+
+‹4⁸› ⁴
+
+ 
+
+Ν-ΝΙ
+
+(49)
+
+ 
+
+220.
+
+Observons que l'on a:
+
+de(A’ ΜΒ),ΣΞ d =4K(4 B)}·
+
+οῐΝῙ, ἅἸ dN ΒΝ,
+
+Β1611 que cette egalite ne puisse pas etre regardee comme etant
+tout simplement l'expression du theoreme elementaire d’apree lequel
+le resultat de deux derivatione successives est independant de l'or-
+dre dans lequel on les effectae, on n'eprouvera pas de difficulte ὸ,
+l'etablir en toute rigueur3 d’ailleurS, au chapitre suivant, 110116 antone
+ὸ. etablir une e'galite analogue en nous servant d’un raisonnement
+qui serait applicable au eas aetuel.
+
+Pour abreger l'eeriture‚ 110116 τ6ρ11ἓ66η1610116 l’expression (49) par
+le symbolo:
+
+5³² Κ (Α, Β)
+ew„ &NB ·
+
+Cela 110116 permettra d eerlre l'inegalite (48) ainsi:
+
+ΘῖΚ(Α, Β)<-11ζ2
+ΘΝ &NB AB²
+
+Il nous reste ἐι faire connaitre une expression important-e d'une
+limite superieure de l'expreseion:
+
+ἱ d K (Α, B) ·
+1 dm
+
+(50)
+
+Suppoeons que l'angle α verifie 166 inegalites (44) et admettons
+en outre que la plus eourte distance d du point B ὲ la ligne (non
+
+ 
+

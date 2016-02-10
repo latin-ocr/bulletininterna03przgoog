@@ -1,0 +1,45 @@
+889
+
+Grbssen durch die Grffissen (34) und deren Ableitungen nach Bogen-
+langen der Haupttangentenkurven und durch 2(n—1) Grbssen (35)
+und (36) bis zur (n—1)-ten Ordnung inklusive ausdrnokt‚ in (161·
+Lago ist, diese 2(n—1) Grssssen aus den ausgestellten Beziehungen
+
+zu bestimmen und durch Elimination derselben (Ῐῑ-Ϊὲἒριζιῖ-ὄψ) Re-
+
+lationen zu erhalten. Daraus ergibt sich. dass die ausgestellten Dif-
+ferentialinvariantenflas Gesamtsystem der unabhangigen Differen-
+tialinvarianten bis zur n-ten Ordnung inklusive bilden.
+
+11. Wenn man auf alle mogliehen Weisen die Operationen Ut
+und Vs auf die Grfissen (41) und (44) in Anwendung bringt, so
+erhalt man ausser den erwahnten Differentialinvarianten noch meh·
+rere andere, die sich indessen durch die erwiihnten ausdrucken
+lassen. Wir wollen nun dazu ubergehen‚ uns uber die Gesamtheit
+der Relationen Rechenschaft zu geben, denen alle diese Differen-
+tialinvarianten geuugen,
+
+Zunaehst werden wir eine wichtige Identitat ableiten. Man
+beachte, dass aus (1611 Grossen (41) zwei Differentialinvarianten
+erhalten werden kimnen, die von den Differentialquotienten der
+Funktion ω unabhangig sind. Solehe Differentialinvarianten sind
+namlich:
+
+P: ᾖ (2Η1 -Ἑ- ΚῙ) = *g {samm ’1- 'wlff’
+3h 112 (45)
+Q = ὲ ‹²2J<² ΔΓ 1125: {12 ἐ ὠ &kk-01 ψ khm) ·
+
+Wenn man sie nun durch Grbssen ausdruekt‚ welche geometri-
+sche Eigensohaften del· Haupttangentenkurven charakterisieren‚ so
+ergibt sich:
+
+ΡΞ - ὲ -Q‘Q‘ [σε ⁰³⁹³ 4- 291 d⁹J² 1- 391 92 (Ρ2 ’“ ⁶⁰²9 θ do )1 ²
+91·ἒ 9εὲ dsl ὠὴ dg!
+
+Q = ὲ ‚³332ss [92 >⁰²⁹² ΔΓ 292 ‘²⁹⁸ - 39192(101† θθΐθ θάθ )1·
+,ᾗῇ 9ιῇ . (ἰδ’, d82 ἀεὶ
+
+Man kann sich ohne Sohwierigkeit uberzeugen, dass diese Grossen
+in dem Poisson’schen Ausdruck (U, V) austraten‚ und zwar dass
+die Identitat:
+

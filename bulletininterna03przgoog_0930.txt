@@ -1,0 +1,57 @@
+874
+
+die Differentialinvarianten 17¹2„ und Du„ und die neunte und die
+elfte in bezug auf die Differentialinvarianten D''22 und D''13 auf-
+zulosen. Man erhalt also zwei Ausdrueke fur jede von den Grssssen
+D‘„ und D''22, (1. h. man kommt auf zwei Relationem von denen
+die erste die Differentialquotienten:
+
+&²D‘20 §³²D‘20 ευν0ςέ &2152
+
+ἓαὲυ ’ 3v² ² 32⁴² ² ἓαέυ
+
+(15)
+
+ 
+
+und die zweite die Differentialquotienten:
+
+(16) 3²1& 5³²1& ἕζῙ-Υόε ἓῖῙΒῘῙΟΞ
+
+ἓιιὲυ ² δυ’ ’ &25² ’ ἒιιὲυ
+euthalt. Dureh Hinzunahme der ersten, seehsten‚ siehenten und
+zwfilften Beziehung kbnnen alsdann die Ausdrueke fur D'w: ΗΜ,
+Dum, Ι)”(Μ abgeleitet werden. Wir gelangen' zu dem Schluss, dass
+die Gesamtheit der Ableitungen zweiter Ordnung der Differential-
+invarianten D'20, D'o„ ΖΜΝ, D¹‘⁰² zehn voneinander und von den
+Differentialinvarianten (13) unabhangige Differentialinvarianten lie-
+fert. Es bilden daher die Ableitungen zweiter Ordnung (13) und
+(14) die Gesamtheit der Differentialinvarianten vierter Ordnung
+und es finden dabei zwei Relationen statt, die durch Differentiation
+aus den Relationen (9) nieht abgeleitet werden kennen. Es sollen
+nun diese zwei Relationen ausgestellt werden.
+
+5. Wir maehen vor allem darauf aufmerksam‚ dass es in Wirk-
+liohkeit geuugen wird‚ bloss eine dieser Relationen aufzustellen. Es
+herrseht namlieh in unseren Formeln eine Symmetrie, mit deren
+Hilfe, sobald eine von diesen Relationen aufgestellt ist, die andere
+sogleieh angegeben werden kann. Hiefur ist nfimlieh niehts ande-
+res umig, als die unteren Indices eines jeden D miteinander zu
+vertausehen, an Stelle des Akzentes ' uberall den Akzent ‘¹ und an
+Stelle des Akzentes '¹ uberall den Akzent ‘ zu setzen und statt u
+uberall v, statt v uberall u zu nebmen. Wir wenden uns zur Auf-
+stellung derjenigen dieser Relationen, welche die Ableitungen (15)
+ent-halt.
+
+In der Nummer 4 haben wir unter anderen die Formeln:
+
+(17) Διν21 -. A‘, Am, = B‘
+
+ausgestellt, wo
+Δ = Daeo D02 — D²11
+und
+
+ 
+
+ 
+

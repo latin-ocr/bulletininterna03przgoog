@@ -1,0 +1,51 @@
+852
+
+Cela posia, soit ιι (με, y) une fonction vtfirifiant l’‹'equation
+Δ ιι -— Μ’ u = 0
+a l'inoerieur du cerole (C). Si l'on repre'tsente par h (θ) la valent
+vers laquelle tend la fonction u lorsque le point (x, y) tend vers un
+
+point P de la circonffirenoQ tel que l’angle du vecteur ΟΡ avec
+l'axe des x soit &gal ὲ θ, on aura, en vertu de la formale (62), la
+
+fot-mule suivante:
+2 π
+
+Q) Ξ Β ’,ΡῘΨΜῘΊΜ-’ΨῨΨ φ’ (ΨΧ), (θ) eos θ do ,
+&x ⁰ ψ’ (H)
+
+Or, en tenant compte des &quationffl
+
+φ” (r) ÷} φ’ (r) - m, φ (τ’) = 0
+
+ψ” (ν) ÷². ψ’ (ν) - m² ψ (ν) -- 0
+
+7
+on trouve:
+
+ψ’ (Β) φ” (B›—1t›‘'<.1=‘› φ’ (Β) = ω’ (ψ’ (Β) φ <R>—w<1e›‹1>‘<1e»= ἓξὲξ
+d'ailleurs:
+
+np‘(les›>m²R.
+
+On aura done:
+2ss
+
+}(}})·j=.<„27{3 ἰδ]ιι(οεν)«ιοιειιεν·ιιθί.
+
+Ddaignons par Ιι1 et h, le minimum et le maximum dela fone-
+tion h (θ) et remarquons que l’on a:
+
+jzffl) 00s0d6=]t{ h(6)—h¹-gk¹’cos θάθ.
+
+Cette &galim et l’indsgalitt'ss:
+
+ 
+
+ι ἰω-Η κῆ
+
+donnent:
+2 π
+
+'smomosodo ἶ<π(ιι,-1ι,).
+

@@ -1,0 +1,49 @@
+206
+
+La probabilit& d'un premier choo dans un point queleonque ξ,
+situ& dans l'intervalle x†Z, x—-Z, et d’un seoond choo dans x...
+
+x -Ι- da: sera:
+
+λ
+(8) 102 (x) dmg} sp (ωαξ-
+2-3.
+
+De mssme la probabilitd* d'un η-ἱὲωθ choo dans x . . ,x -Ι- dx:
+
+241
+(9) 10n (xmae—:- Ξῖ Ρ.-,(ξ)ἀξ·
+κ-ὶ(
+
+ΠένειΙιιεηὶοῃ (168 p successise peut 86 faire aiaement d'aprizs cette
+formale, mais les msultats deviennent tries compliqu& pour (168
+grands n ὲ, cause de la discontinuit& (16 p1.
+
+On &vito cette difficultee en transformant la fonction p¹ par moyen
+(16 Γίιιι63τ616 (16 Fourier:
+
+1 οο811] ql
+
+(10) p, (cr) = {sdq p1 (α) 668 q (εις-α) da -ν-ἶι —qZ 668 qa: dq
+
+d’oh l'on tire
+(11) p(ae)= ἐ](ἷίἓ9ἐ) coeqxdx
+
+66 qui pour des nombres n grands 86 transforme‚ en dfiveloppant
+
+εἶτ '²1'- };†{{†· ·· 0¹³ en nssgligeant 168 termes d'ordre sup&-
+
+rieur, en:
+
+ 
+
+00 -(«’λ) -..— -
+
+(12) Pn(x)=5{se- ⁶ 668 ρωάς--νὶηῖῗζ —
+
+οἰι l’on a employ& la formule
+
+ω
+
+scos az ε-Βθάκεὲχχέ εἿΞβ .
+

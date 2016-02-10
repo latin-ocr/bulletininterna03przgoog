@@ -1,0 +1,47 @@
+854
+
+en designant par x 61 y les coordonnees du point Β 61 par M1 une
+constante numerique dependant uniquement de 16 nature geometri-
+que (16 16 ligne (S).
+
+Pour m = 0, les inegalites precedentes ont 616 616111165 par M.
+Picard dans son 11161110116 fondamental sur 16 methodo des approxi-
+mations successives mais M. Picard s'est place dans des hypotheses
+beaucoup moins generales que celles que nous adoptons 101611 sujet
+(16 16 ligne (S). -
+
+Designons par C 16 point de 16 ligne (S) 16 plus voisin du point
+Β, 011 1111 des points jouissant de cette propriete dans le cas ou
+exceptionnellement il y en 6111611 plus d' un. Soit (Σ) 1111 061016 pas-
+sant par 16 point Ο mais exterieur au (1011161116 (D). D' apres les hy-
+potheses adoptees au sujet (16 16 ligne (S) on pourra, comme nous
+16 somne, attribuer au rayon de 06 061016 11116 longueur finie R in-
+dependante (16 16 position du point C sur 16 ligne (S). Soit φ (A, B)
+la fonction de Green exterieure relative au 061016 (Σ) 61 ὲ. l'equa-
+tion (16 Laplace. On aura:
+
+Gffissogfflfflffl·
+
+Or:
+G (A, Β, m2) Ξ G (A, Β, o) ,
+donc:
+(67) G (A, Β, m'2) ξ §KQ Β).
+
+Soit Ε 16 0611116 (111 061016 (Σ). On prouvera aisement que l'on a:
+
+9, (A B) < (Aeg-122) (Bw-122²)
+⁷· 4nfflAW
+
+ 
+
+D'autre part on 6 6ν1(161111116111;
+AE5L÷R
+EEgL÷R
+
+en designant par L 16 maximum (16 distance de deux points si-
+11166 sur (S). Par consequent:
+
+W B>< - (effi (ᾞΒ)
+
+=4n
+

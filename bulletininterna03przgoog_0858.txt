@@ -1,0 +1,53 @@
+808
+
+ὲ, 1’111(6116111 (16 1’6116 (Ω). 6116 11611ίὶ6 forcement l’equation conside·
+166, meme 611 chacun (16 665 110111(5.
+
+J’ai eu l'occasion d’etablir le lemme correspondant pour trois
+variables independantes (Bulletin de l'Academie des Sciences de
+Cracovie, 6 Fevrier 1905, p. 94, 95 6( 96). Une methodo absolu·
+ment analogue est applicable au cas actue13 on n'aura qu'a rem-
+placer la fonction
+
+e-mr
+r
+
+ 
+
+par la fonction f (m r), en continuant a representet par f(z) la tonc-
+tion definio par la formule (3).
+
+Lemme H. Lorsqu'une fonction u (B) des coordonnces d'un point
+B verifie l'equation
+
+Au—mssu=0
+
+(16115 (011( 16 (1011161116 (Ω) exterieur a un 661616 (C) (16 rayon Ι( 6(
+lorsqu’clle 65( 11011166 (16115 66 (1011161116. 6116 (611(1 uniformement vers
+une constante c lorsque 16 110111( Β s'eloigne indefiniment 6( cette
+constante ne peut 6116 differente (16 zero que (16115 16 665 oh la
+constante 166116 m 56 reduit a 6610.
+
+011 peut evidcmment supposer 56115 1111116 a la generalite‚ (1116 16
+fonction u 65( 166116 6( qu'elle 65( continue sur la circonscrence du
+cerole (O). Supposons qu'il 611 501( 611151 6( considemus d'abord 16
+665 011
+
+m > 0 .
+Designons par v (B) 16 fonction qui verifie l'equation
+Δ v - m‘2 v = Ο
+
+(16115 16 (1011161116 (Ω), qui prend sur (C) les memes valeurs que la
+fonction u 6( (1111 tend uniformcment vers zero lorsque 16 point B
+s'cloigne indefiniment. Posons
+
+(6) w=u—v.
+
+La fonction ec jouit (165 memes proprictes generales quc la fone-
+tion u et (16 plus elle s'annule sur 16 661616 ((.’). 00115111610115 Ξ11’111-
+(6116111 (111 domnine (Ω) 1111 110111( quelconque Bo. Soit (1016 distance
+(16 66 110111( 611 6611(16 0 du cerole (C). Designons par M une limite
+5111161161116 (16 16 (1066(1(6 {ur ¹, par ρ 16 distance d'un point variable
+
+ 
+

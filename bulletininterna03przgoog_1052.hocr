@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bulletininterna03przgoog_1052.png"; bbox 0 0 3850 5867; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 395 173 2013 229">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 395 173 2013 229">
+     <span class='ocr_line' id='line_1_1' title="bbox 395 173 2013 229; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 395 173 639 227; x_wconf 69' lang='lat' dir='ltr'><strong><em>Bullatin</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 677 175 741 226; x_wconf 83' lang='lat' dir='ltr'><strong><em>de</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 778 175 984 226; x_wconf 81' lang='lat' dir='ltr'><strong><em>l&#39;Acad.</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1027 175 1120 226; x_wconf 72' lang='lat' dir='ltr'><strong><em>des</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1164 174 1409 227; x_wconf 72' lang='lat' dir='ltr'><strong><em>Sciences</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1449 177 1513 227; x_wconf 82' lang='lat' dir='ltr'><strong><em>de</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1557 177 1826 228; x_wconf 77' lang='lat' dir='ltr'><strong><em>Cracom&#39;e.</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1871 181 2013 229; x_wconf 85' lang='lat'><strong><em>1906.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 652 637 3728 4967">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 652 637 3728 4967">
+     <span class='ocr_line' id='line_1_2' title="bbox 652 637 3728 4967; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 652 637 3728 4967; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 381 5254 1284 5323">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 381 5254 1284 5323">
+     <span class='ocr_line' id='line_1_3' title="bbox 381 5254 1284 5323; baseline 0.003 -18"><span class='ocrx_word' id='word_1_10' title='bbox 381 5255 470 5309; x_wconf 87' lang='lat' dir='ltr'><strong><em>ad.</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 510 5261 622 5306; x_wconf 77' lang='lat' dir='ltr'><strong><em>nat.</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 665 5256 763 5306; x_wconf 74' lang='lat' dir='ltr'><em>del.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 816 5256 895 5307; x_wconf 83' lang='lat' dir='ltr'><strong><em>W.</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 934 5254 1284 5323; x_wconf 69' lang='lat' dir='ltr'><strong><em>Kulczyr&#39;aski.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

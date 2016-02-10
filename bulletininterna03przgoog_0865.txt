@@ -1,0 +1,50 @@
+815
+
+du point (a. b), il ne semble pas possible d'en conclure immediato·
+ment le theoreme que nous avons en vue et dont la forme precise
+est la suivante: etant donne deux points reela distinots (ξο, ²70) et-
+(aco, yo), situes a l'interieur du domaine auquel se rapporte la sono-
+tion do Green G (ξ, η, x, y. 212²), cette fonction sera developpable en
+une serie procedant suivant. les puissanoes entieres et positives des
+differenoes:
+
+ξ·- {³02 ‘'2“7202 x—aeo, ,¹l“.²l0·
+absolument eonvergente, pourvu quo l'on ait:
+
+Ι ξ-ξο’<ὁ; η-ηοῐ<ὁ
+
+l :r—w0‘<‹5; y-yo <ὁ’
+
+on designant par ὁ un nombre positis non nul, dependant des po-
+sitione des points (ξο, ⁷20) et (5⁶02 yn)-
+
+En se reportant au ξ 4. on verra sans peine que 16 theoreme
+precedent se ramene immediatemeut au theoreme suivant: designons
+par Ιι 16 fonction representant les valeurs peripheriques de la sono-
+tion v demandee dans 16 Probleme de Dirioblet (ordinaire ou gene-
+ralise suivant la valeur de m] et supposons que. par rapport a deux
+parametres ξ et η dont la fonction lz depeudmit, cette fonction soit
+developpable en une sca-ie entiere de 16 forme
+
+(9)
+
+.--Σ1(ξ--ξο)ί(η-ηον· (102
+
+‘aj
+
+absolument et uniformement eonvvrgente sur la ligne (S) et pour
+tontes les valeurs de ξ et η venustant des inegalites de la forme:
+
+ξ- ξθ Ξ ὁὶ
+
+*νη-ηρ ’ Ξ ὁ] ³ (11]
+
+οἰι ὁ1 represente un nombre positif nou nul. Dans 66 aaa, la fone-
+tion υ, consideree comme fonction des parametres ξ et η ainsi que
+(les coordonnees x et y, jouira de la propriete suivante‚ si l'on dc»-
+signe par ²³0 et y„ les coordonnees d'un point interient au domaine
+auquel se rapporte le Probleme de Diriehlet considere, 011 pourra
+developper la fonction v en une serie entiere de la forme
+
+v ΞΣΒΗ, ρ. 11 (ξ’-ξογ (η’-720)1 (3-4ῑῖοῊ (ΖΙ-ἔθη) (12)
+

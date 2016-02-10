@@ -1,0 +1,53 @@
+844
+
+determines sur la ligne (S), par B un point variable sitne a l'inte-
+rieur du demaine (D), par l la plus conrte distance du point B‘s la
+ligne (S), par λ la plus petite des longneurs
+
+ΒΑ <st=L2 m)
+
+et par u (B) une fonction des coordonnees du point B verifiant,
+a l'interieur du demaine (D), l’equation
+
+Au— m²u= 0
+
+et jouissant en outre des proprietes suivantes:
+
+1⁰ A tout systeme de deux nombres positifs ε et η, differente
+de zero mais aussi petits que l'on voudra. on peut faire correspon-
+dre un nombre positis ὁ, different de zer0‚ tel que les inegalites:
+
+ιξό
+
+(m) λὲη
+
+entrainent l'inegalite suivante:
+(38) 4 ηιξ < ε .
+
+2⁰ Pour toute position du point B a l'interieur du domaine
+(D), on a
+u <622²
+
+en designant par ζ’ une constante positive et par p un nombre
+constant inferieur ὸ, Punite, positis ou nul.
+
+Je dis que la fonction u cst nulle dans toute l’etendue du do·
+maine (D).
+
+Pour etablir ce lemme, attribuons a η et ε des valeurs deter-
+minees et supposons alors que ὁ ait une valeur telle qne les inega-
+lites (37) entrainent l'inegalite (38).
+
+Cela pose= envisageons a l'interieur du domaine (D) un point
+determine P ainsi qn'un nombre ρ non superieur a ὁ et infer-ient
+a la plus courte distance du point P ὲ. la ligne (S). Soit (DI) le
+demaine forme par ceux des points du domaine (D) dont les plus
+courtes distances ὲ, la ligne (S) ne sont pas inferieures a ρ. Si le
+nombre ρ est assez petit, la frontiere (Sl) du demaine (D) satisffera
+a des hypotheses generales de meme genre que celles que nous
+avons adoptees au sajet de la ligne (S). Supposons que le nombre
+ρ satisfasse a cette condition et designons par G¹ (Q, P, m²) la fonc-
+tion de Green relative au demaine (Dl). Nous aurona:
+
+ 
+

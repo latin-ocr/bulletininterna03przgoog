@@ -1,0 +1,50 @@
+891
+
+und bei Anwendung der Beziehungen (45) und (47) ergibt sich:
+
+U(H1)-l-2H1P=(1-{-{·Q)(H2 -Ι-Κ2)-Ι-ὲ ΠΩ),
+V(K2)-}-2K, Q=(1-}-}-Q)(H1†K1)-i-2} ΨΩ)-
+
+Dies sind zwei von (len fraglichen Beziehnngen. Um zwei weitere
+zu erhalten, wolle man beachten‚ dass aus (41) die Relationen:
+
+ffi-
+Θυ ’-
+
+:gh-&ki H2k1043h3k-3Hffi104ssff{51324-3m„‚
+
+(48)
+
+μ-ἓιιῧῌι hm 43ffik-15H1 km-Q-ksskss
+
+{h‘ffffilsshm†3k3k“3K1k,14-h3k3{]}=
+
+folgen. Benutzt man nun die Formeln (41) und (44), so gelangt
+man zu den Relationem
+
+V(H1) — U(H2)={9†÷⁸5H2(H1-{-K1>-}H1 Kx,
+
+U(K²)·- V(K1)={Q-{-3K1<K, -1-H2)-3K, H„ (49)
+
+Wir haben geschen, dass man durch Ausfuhrung der Operationen
+Uf und Vf aus den Grfissen (41) 4 Differentialinvarianten jeder
+Ordnung bekommt‚ welche untereinander und von den Differen-
+tialinvarianten‚ die aus Ω hervorgehen, unabhzingig sind. Daraus
+folgt, dass alle Differentialinvarianten‚ die aus den Grossen (41)
+hervorgehen‚ ausser den Relationen² die eine blosse F olge der Iden-
+titat (46) sind, nur die Beziehungen (48), (49) und diejenigen
+erfflllen, die aus ihnen durch Ausfuhrung der Operationen Uf und
+Vs und durch Benutznng der Identitat (46) abgeleitet werden
+kOnnen.
+
+12. Wir kehren zu der speziellen linearen Gruppe zuruck und
+fragen nach den Differentialinvarianten der Haupttangentenkurven
+in bezug auf diese spezielle Gruppe. Diese Differentialinvarianten
+unterscheiden sich von den Differentialinvarianten der Nummer 10
+nur dadurch, dass sie von ω abhangen kennen. Um also das Ge-
+
+samtsystem der Differentialinvarianten in bezug auf die speziclle ’
+
+lineare Gruppe zu erhalten‚ genflgt οε, zu den Differentialinvarian-
+ten der N ummer 10 eine einzige Differentialinvariante hinzuzufugen.
+

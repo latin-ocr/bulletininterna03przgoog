@@ -1,0 +1,51 @@
+853
+Nous aurons done facilement·
+
+(22⁶)0< :bb—ff* · (63)
+
+C’est l'inegalite que nous voulions etablir.
+
+ξ 23. Revenons ὴ la theoria generale et eherehons une limite
+superieure des valente absolues des derivees de premier ordre de
+la quantite:
+
+------ ’3- ’— - 2 (64)
+
+consideree comme fonction des coordonnees x et y du point B. A eet
+effet, soit Βο une position particuliere queleonque du point B dans
+le domnine (D). Designons par l„ la plus eourte distance du point
+B„ ἐι la ligne (S) et, du point Bo comme eentre deerivons un cerole
+
+(C) de rayon egal ἐι ἓ. Supposons que le point· B se deplaee sur
+
+le cerole (0). On s’assurera de suite? en s'appuyant sur l'inegalite
+(27), que, dans ees conditione, la fonction (64), qui, eomme on sait,
+ne devient jamnis negative. aura pour limite superieure:
+
+Cela etant, on conclura de l'inegalite (63) que les derivees du
+premier ordre de la fonction (64) par rapport aux coordonnees du
+point, ne depasseront pas en valent· absolue. lorsque B vient« se
+confondre avec B„ la limite suivante:
+
+12 M
+ΑΕΒ ·
+Nous arrivons done au resultat suivant: si l'on designe par x et
+
+y les coordonnees du point B et par Μ 16 nombre que- cette lettre
+represente dans l'inegalite (27), on aura·
+
+¹2dG(A2‚Bm²) jedG(A‚B‚m2) 12M
+
+2}oe “3dix ’35⁹ dx <EI-jz·
+
+ξ 24. Je me propose maintenant d'etablir les inegalites suivan-
+ωε, on a:
+
+ 
+
+(65)
+
+ι jx G‹‘21‚B‚m²) ἑ , 3⁰} G(A‚B2m²) <53⁷³ (66)
+
+6*
+

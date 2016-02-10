@@ -1,0 +1,51 @@
+590
+
+3) Si nd est de l'ordre de Punite, cette expression n’est plus
+applicable3 il faut recourir 8 18 formule (9).
+
+4) Enfin, si le nombre de collisions n est si grand, que nd de-
+passe l'unite de beaucoup (ce qui est une condition remplie dans
+tous les cas qui se pretent a l'observation), le resultat se simplifie
+encore, par suite de: lim cos'⁸ ε --- lim (1-65- = lim θ’*δ = 0, et nous
+aurons le resultat final ¹):
+
+(12) K = iffi-633 .
+
+Donc, la distance ne croit pas 88 raison du nombre de morceaux
+composants, mais en raison de sa racine carree, c'est un resultat
+analogue 8 l'equation (2) du ξ 8 et a la formale (15) du memoire
+cite, qui donne les distances moyennes parcourues par les mole·
+
+08188 (1’88 gaz: As„ = λνῖ. Ε8 effet, ces deux resultats sont con-
+nexes3 car supposons que nous definissons 18 10838881· (18 chemin
+qui ne peut plus etre considere comme droit ou dont 18 courbure
+est prononcee, par 18 condition nd = 2, c'est-a-dire qu’on peut ima-
+giner un changement complet (18 direction, ayant lieu apres cha·
+
+que n =}ieme collision3 dans 08 088, en effet, l'application de la
+
+formnle citee 8 88 chemin compose (18 ἐξ morceaux independantS,
+dont chacun a 18 10838881· Ξόἔ, (10888 88 resultat identique a (12).
+Les particules M, par consequent, 88 comportent comme des mole-
+
+cules gazenses, (108888 d'un chemin libre -2—3. Oette grandeur peut
+
+ὁ
+
+&tre appelee parcours libre apparent.
+La substitution de l’expression
+
+ε2 9 mc
+
+8
+(13) ὅ ² '2 :32 Μὸ) :32111‘
+
+²) Ce que nous avons trouve n'est pas 18 distance moyenne, mais 18 180188
+(18 carre moyen de 18 distance, qui sera plus grande (18 18 distance moyenno en
+
+proportion de xli-²:108& d'apres 188 formales (14) et (15) de mon 1116180118
+
+- dans Bullet. Int. Acad. Cracovie 1906, p. 202. Mais nous ponvons 88311381· cette
+
+difference, ear il ne s’agit ici que de l’ordre de ces grandeurs.
+

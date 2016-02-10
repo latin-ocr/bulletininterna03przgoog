@@ -1,0 +1,50 @@
+847
+
+Pour &tablir les ineSgalites prtssctssdentes, posons:
+
+u (ae ,ηε- ⁶³⁶(4d33 ³⁴ ”²²² (48)
+
+ddsignons par ῥ’ (x, y, ξ, η) la fonction de⁴ Green intaessrieure relative
+au cerole (Σ) et Ξι Ρὲᾳωιιίοιι de Laplace et reprtsssentons par -- sin θ
+et cos θ, les oosinus ‹lirecteurs de la normale interieure au cerole
+(Σ) en un point (ιε’, y‘) situ& sur la circonfdrence de ce cerole. Nous
+aul-ons, en supposant que le point ιιι, y soit sit-ud· ὲ ΙἺῐιιέῐίθυΥ du
+cerole (Σ J, la relation suivante·
+
+27:
+
+πίω· y212>=<>s (xm-y)
+-m2ssuu3 η)9ὂ(τ4,,ξη)ᾱξᾶη,
+
+οὺ Ρίῃιέςτειὶθ double devra etre etendue a toute l'aire du cerole (Σ).
+
+Reportons-nous aux imgaliffls (27) et (41) d'une part et rappe-
+lons-nous d'autre part que nous avons designd par r la plus courte
+distansse du point A Ξ). la eirconffirenoe (Σ); nous aurona:
+
+S1n639†cos ἐξ ἄθ-
+
+ 
+
+(49)
+
+'1c(oe'y') ξς »2Μῖ2
+u (ξ. η) ξ 2 Μ :72 · (50)
+
+En s'appuyant sur les relations (49) et (50), on &tablira imm&-
+diatement l’existeuee de la quantit& (43). On &tablira aussi sans
+peine les ine-'zgalites (45) et (46) pourvu que. en discutant les int&-
+grales doubles que l'ou aura ἰι ο(»ηεί(1όι·θι·, ἰηῐόςῐειῙθε dans lesquel-
+les la coordonnee ,ε aura la valeur zero et la coordonmsse y une va-
+
+leur wrifiant les inssgalites (44), on dbaeompose chacune de ces in-
+tegrales en deux parties dont l'une serait ktendue au demaine d&-
+
+fini par l'inbgalitdt
+5²4- (η - yffi ἑξ (51)
+et l’autre au domnine dfffini par les intigalitsss suivantes:
+ξψψ-υνέζῖ,
+ξ’-Ηη-(Ψ-Ξρῑ
+
+(5⁶2)
+

@@ -1,0 +1,59 @@
+899
+
+Man kommt also, falls die Gleiehung (64) einfaohe Wnrzeln besitzt‚
+' auf die Bedingung:
+
+K1 — (Ω - 4) H2
+A, B¹ C,
+ΑΒ B2 02
+
+A:
+
+ 
+
+ 
+
+= 03 (79)
+
+wenn man ferner die algebraischen Komplemente der Elemente
+dieser Determinante mit:
+
+αθ) βο) γο
+αι, βι, γι (71)
+αξη βε, γε
+
+bezeichnet‚ so sieht man, dass zwei Ffille auseinander gehalten werden
+mussen‚ je naohdem alle Grossen (71) gleich Null sind oder nieht.
+Tritt die erste dieser Mi3gliehkeiten ein, so befriedigen die beiden
+VVurzeln der Gleiohung (64) das System (65). Bei der zweiten kann
+dies nur fur eine dieser Wurzeln stattflnden‚ und man fiberzeugt
+sich leieht. dass dabei jede Reihe:
+
+a„ fif, γ, (εει), 1, 2) (72)
+
+entweder aus Grossen bestehen muss‚ die alle drei gleich Null sind,
+oder aus Grbssen. die alle drei von Null verschieden sind. In der
+Tm, waren in einer Reihe (72) einige Grrbssen gleioh Null, andere
+hingegen von Null verschieden2 so kijnnte dies entweder mit der
+Tatsaehe unvereinbar Sem, dass das System (65) durch die VVerte
+
+0=0 und Ξ.---() nieht befriedigt werden kann, oder aber zu
+
+widerspreehgnden Wert-en der Unbekannten ρ fabren. Es seien nun
+
+fur ein bestimmtes ι’ alle Griissen (72) von Null verschieden. Als-
+dann erg-ibt sich:
+
+(με αἱ) 9:⁵61&
+γε 71
+es muss also
+a,- γε ’‘- (3ιῖ = ⁰
+
+sein. Es leuehtet demnaeh ein, dass die notwendigen und hinrei-
+ehenden Bedingungen, dass eine der beiden einsaohen VVurzeln der
+Gleiehung (64) das System (65) befriedige, datin bestehen, erstens
+‹lass Δ = 0, zweitens dass nieht alle Grossen (72) gleioh N ull sind.
+und drittens dass die Beziehungen:
+
+3*
+

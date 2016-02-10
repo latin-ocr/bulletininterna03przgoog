@@ -1,0 +1,50 @@
+811
+
+trouve le point Ας (16116 166 autres, 16 fonction consideret} est nulle.
+La seconde partie de 66116 proposition est une consequence immediate
+des 111οΡ116166 6166166161166 61 bien 6011111166 des integrales de l'equation
+
+Au—m2u=0.
+
+Quand 6 16 1116611616 1161116, 11 116 6616 peut-&tre 1166 6611611111
+(16 l'examiner de plus 11166.
+
+Β6613110116 par (le) 16 1631011 dans laquelle 66 trouve 16 point A
+et 1101110116-110116 d'abord 6 11066 6666161 qu’h l'interieur (16 66116 16-
+gion, 16 fonction G (A, B, m2) ne peut jamais devenir negative.
+
+Lorsque 16 [1616166116 m 6 11116 11616111 166116 non nulle, 16 pro-
+1111616 precedente (16 16 fonction de Green 16611116 iinme'diatement.
+(16 1116016166 111611 606116 suivant: lorsqu'une fonction u verifie
+l'equation
+
+Au-m2u=0
+
+dans 11116 66116166 6116. 6116 116 peut avoir 6 1’11116116111 (16 66116 6116,
+111 un maximum positif, ni un minimum negatif. Lorsque le para-
+1116116 m=0‚ 16 1631011 (Ε) 116 coincidunt pas aveo 16 1631011 in-
+finie (Ro), 16 propriete¹ consideree (16 16 sonet-ion de Green est 6166-
+sique. Supposons (10116 que 16 point A 66 trouve 6 1’1111611661 (16 16
+region infinie (Ro) et que l’on ait en 6161116 16111116 m=0. Je (166116
+un cerole (Σ) de 6611116 Α 61 de rayon assez petit pour que 66 661·-
+616 66 trouve tout entier 6 1’1111611661 de la region (Ro) et pour que
+de 111116. 6111 16 61160616161166 (16 66 661616, 16 fonction G (A, B, 0)
+soit 60116161111116111 positive. Designons par (12‘0) 16 partie de 16 region
+(Ro) exterieure 611 661616 (Σ). Soit (ΙιΨο) 16 11611610111166 1161 rayons-
+veeteurs recipi-eques de 16 region (13¹0), 16 pole Ρ (16 la transforma-
+11011 616111 un point quelconque ne faisant 1161116 111 (16 16 region
+(R‘o) ni de 66 1101111616.
+
+La region (H'o) ne s'etendra pas 6 l'infini et, puisque 16 fonction
+de Green est 1631111616 Ξι l'infini‚ la transformee υ de 66116 fonction
+6616 11116 fonction hat-mollique jouissant des 111011116166 suivantes:
+elle 6616 harmonique (16116 16 region (Euo), elle sera posit-ive sur la
+transformee de 16 611601116161166 (Σ) 61, 661 166 autres parties (1616
+1101111616 (16 (Ε”0), 6116 66 16ἀ6116 6 zero, Dono 16 fonction v ne
+deviendra jamais 1163611116 a l’interieur (16 16 1631011 (R‘'0). Par 6011-
+sequent 11 en 6616 (16 meme de 16 fonction de Greeu 6 1161611661
+
+(16 16 region (B'o).
+
+ 
+

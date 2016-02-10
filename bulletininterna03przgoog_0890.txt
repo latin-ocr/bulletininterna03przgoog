@@ -1,0 +1,49 @@
+840
+
+J’obsorve qu'une application facile du theson-&me de Groen, applia
+cation qui, eu &gard aux theorbmes rappel6s ou &tablis dans l'ln-
+troduetion, ne donne lieu ὲι aucune objection‚ foul-nit la relation
+suivante:
+
+G (Q, B, m¹²) -— G (Q, B, mg) =
+
+(28) :me-me) JG<Q.1²‚m,²·›G‹·B2Rm²²>d⁴'2
+ὦ]
+
+en designant par m1 et m2 deux nombres re'els quelcouques ot par
+dez, l'ffldment d'aire relatis au point P.
+
+La relation (28) prouve que la differonce formant 18 premier
+niembre'de cette relation, est toujours de mssme signe que la dif-
+serenae:
+
+(29) ²²22* —- m22.
+Par consiaquent, puisque l’expression:
+(J (QB, κη’) - G‹Q‚ Β, m22)
+s’annule lorsque 18 point Q vient sur (S), la diffefireuce
+
+49&AE ma) ---⁶1⁶⁴ (A, B. ηιμ)
+
+” ειΝ, ——ffi ”-
+aura aussi le signe de la quantit& (29). Gela prouve que 18 premier
+membro (18 (27) est une fonction daesseroissante de la variable posi-
+tive m2.
+Par oonshquent, pour &tablir l'indegalitt} (27), il suffit de demon-
+trer l’inegalitd suivante:
+
+(30) 31 {5112 3³1²) Ξ Μᾙζὴ
+
+ἀΝ, “““ AB²
+οὺ, suivant les notatione adopmes‚ Ia fonction de Green oonsideroesse
+
+est la fonetion (18 Green relative Ξ). Γέῳιειιίοῐι de Laplaoe.
+Examinons d’abord 18 cas οὺ l’on a:
+
+(31) 1333.
+
+D'apr&s les hypoth&ses faites au sujet de la ligne (S), il sera
+poqsible de faire passer par 18 point A un· cerole (C) tangent ὸ la
+ligne (Β), 8Χῒόῐί8ιιι· au demaine (D) et ayant pour rayon une lon-
+
+ 
+

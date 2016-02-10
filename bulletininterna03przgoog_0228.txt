@@ -1,0 +1,50 @@
+204
+
+On obtient la probabilite d'un mouvement tel que 18 molecule
+
+subisse une collision dans 66 temps t, en multipliant la probabilite
+
+d'une collision dans 16 temps Θ... Θ -Ι- de, &esna-dire Ξ- e- ἶ de,
+
+par la probabilite d'un mouvement libre du moment Θ jusqu'a t,
+ea- θ)
+
+e'est-a-dire e* -ῖ, et en integrant cette expression d'apres de
+
+entre les limites zero et t:
+
+tc „20 ,⁶<2-0) ct ,εξ
+(3) p1=s23e²dffie λελελ.
+
+Ι)’11116 maniere analogue on obtient la probabilite de deux eol-
+lisions pendant t:
+1 ct ² “ 5³
+“-·· Ξ(“ῑ) ⁶ Ἥ
+
+611 general, la probabilite de n eollisions:
+
+ 
+
+(4) p..= n, stne
+
+La somme des p est egale al'unite: lim (p1 -Ι- P2 ÷...p„)=1‚
+puisqu'il est certain qu'il y aura un nombre queleonque de collisions
+(y compris zero) pendant 16 temps t. Des considerations analogues
+
+00
+
+s’appliquent aux integrales s Ξ Ρ, dt.
+
+En designant ἵ, 66 qui represente le nombre normal des choos
+
+dans le temps t, par N et en developpant n! d’apres 18 formule
+d'approximation bien 6111111116, 611 peut transformer (4) en:
+
+1 Ν 8,-
+(ὃ) Ρ’“ = §2 ιῖπ n i
+66 qui donne la loi approximative de la distribution des choos:
+1 - §.3³1
+(6) 10„ = ῦρ-Νπ e ²
+
+οὺ 1’611 8 pose {=I†d.
+
